@@ -7,5 +7,9 @@ Cree un environement python
 
 telecharger les dependance python 
 - pip install speechrecognition
+- pip install pyaudio
+- pip install -U pip setuptools wheel
+- pip install -U spacy
+- python -m spacy download fr_core_news_sm
 
 lancer le script
