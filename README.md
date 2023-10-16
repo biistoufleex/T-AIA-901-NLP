@@ -10,6 +10,8 @@ telecharger les dependance python
 - pip install pyaudio
 - pip install -U pip setuptools wheel
 - pip install -U spacy
-- python -m spacy download fr_core_news_sm
+- python -m spacy download fr_core_news_lg
+- pip install pandas
+- pip install unidecode
 
 lancer le script
