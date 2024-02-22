@@ -14,7 +14,7 @@ destination_keywords = [
     "jusqu'à",
     "pour",
     "en direction de",
-    "jusqu'à chez",
+    "jusqu'à",
     # ... (ajoutez d'autres expressions si nécessaire)
 ] 
 
@@ -25,7 +25,7 @@ departure_keywords = [
     "au départ de",
     "en partant de",
     "depuis",
-    "au départ de chez",
+    "au départ de",
     # ... (ajoutez d'autres expressions si nécessaire)
 ]
 # Liste des mots a exclure

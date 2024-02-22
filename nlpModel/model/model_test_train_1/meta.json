@@ -1,14 +1,14 @@
 {
   "lang":"fr",
   "name":"model_test_train_1",
-  "version":"3.6.0",
+  "version":"3.7.0",
   "description":"French pipeline optimized for CPU. Components: tok2vec, morphologizer, parser, senter, ner, attribute_ruler, lemmatizer.",
   "author":"Explosion",
   "email":"contact@explosion.ai",
   "url":"https://explosion.ai",
   "license":"LGPL-LR",
-  "spacy_version":">=3.6.0,<3.7.0",
-  "spacy_git_version":"cb4fdc83e",
+  "spacy_version":">=3.7.0,<3.8.0",
+  "spacy_git_version":"6b4f77441",
   "vectors":{
     "width":0,
     "vectors":0,
@@ -618,7 +618,7 @@
         "f":0.6655992681
       }
     },
-    "speed":4706.547827107
+    "speed":3569.3782435377
   },
   "sources":[
     {

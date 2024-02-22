@@ -13,5 +13,6 @@ telecharger les dependance python
 - python -m spacy download fr_core_news_lg
 - pip install pandas
 - pip install unidecode
+- pip install spacy spacy-langdetect
 
 lancer le script
