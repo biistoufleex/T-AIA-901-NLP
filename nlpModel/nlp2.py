@@ -23,6 +23,8 @@ def analyze_text(text):
             trip_info[ent.label_] = ent.text  
 
     if trip_info["DEPART"] and trip_info["ARRIVER"]:
+        if trip_info["DEPART"].lower() == trip_info["ARRIVER"].lower():
+            return "identique"
         return trip_info
     else:
         return "NO TRIP"
@@ -37,10 +39,13 @@ if __name__ == "__main__":
     if detect_language(text):
         print("Le texte est en français.")
         trip_result = analyze_text(text)
-        if trip_result != "NO TRIP":
+        if trip_result != "NO TRIP" and trip_result != "identique":
             print(f"DEPART: {trip_result['DEPART']}, ARRIVER: {trip_result['ARRIVER']}")
             print(trip_result)
         else:
-            print(trip_result)
+            if trip_result == "identique":
+                print("Vous avez renseigné un départ et une arrivée identique.")
+            else:
+                print(trip_result)
     else:
         print("Le texte n'est pas en français.")
