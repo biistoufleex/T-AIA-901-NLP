@@ -11,7 +11,7 @@ def detect_language(text):
         return False
 
 def analyze_text(text):
-    
+
     nlp = spacy.load('model/model_departure')
     doc = nlp(text)
     
