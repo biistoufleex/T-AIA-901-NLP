@@ -165,3 +165,4 @@ cython_debug/
 AIA/
 .DS_Store
 test_voice.py
+model/

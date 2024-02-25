@@ -12,7 +12,7 @@ def detect_language(text):
 
 def analyze_text(text):
 
-    nlp = spacy.load('model/model_departure')
+    nlp = spacy.load('model/model_with_lg')
     doc = nlp(text)
     
     trip_info = {"DEPART": None, "ARRIVER": None}
