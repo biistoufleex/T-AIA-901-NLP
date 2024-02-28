@@ -105,7 +105,7 @@ def remove_accents_and_symbols(text):
 def detect_language(text):
     try:
         language = detect(text)
-        if language != 'fr':   
+        if language != 'fr':
             return True  # Vérifie si la langue détectée n'est pas le français
     except:
         return False
