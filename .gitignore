@@ -161,3 +161,4 @@ cython_debug/
 
 
 .python_venv
+test_voice.py

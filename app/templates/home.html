@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ia Nlp</title>
+  <link rel="icon" href="{{ url_for('static', filename='img/favicon.ico') }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}" type="image/x-icon">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+</head>
+
+<body>
+  <header class="header">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark justify-content-center">
+      <h3 class="text-white">Voyage Express!</h3>
+    </nav>
+  </header>
+
+  <div id="overlay" class="overlay visually-hidden">
+    <div class="text-primary" role="status">
+      <div class="load">
+        <div class="load-one"></div>
+        <div class="load-two"></div>
+        <div class="load-three"></div>
+      </div>
+    </div>
+  </div>
+
+
+  <section class="container mt-5">
+    <div class="message-alert container d-none">
+      <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong id="message-alert-content"></strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+    </div>
+
+    <div class="message-success container d-none">
+      <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong id="message-success-content"></strong>
+        <button type="button" class="btn-close" data-bs-dismiss="success" aria-label="Close"></button>
+      </div>
+    </div>
+
+
+
+    <div class="row shadow-lg p-5 pb-3 rounded">
+      <h3>Demander votre trajet</h3>
+      <div class="row">
+        <div class="input-group">
+          <input type="text" id="txt-value" class="col-md-10 form-control-lg"
+            placeholder="Veuilez renseigner un trajet..." aria-label="trajet">
+          <button type="button" id="btn-search" class="btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search"
+              viewBox="0 0 16 16">
+              <path
+                d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0">
+              </path>
+            </svg>
+            <!-- <span class="visually-hidden">Button</span> -->
+            <!-- trouver -->
+          </button>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3 offset-4">
+
+          <input class="form-control form-control-lg" hidden id="actual-btn" type="file"
+            accept=".wav, .aif, .aiff, .flac">
+          <label class="button active" for="actual-btn">
+
+            <i class="fa-solid fa-cloud-arrow-up"></i>
+          </label>
+          <span id="file-chosen">No file chosen</span>
+        </div>
+        <div class="col-md-2">
+          <button type="button" class="button active" id="pushed">
+            <i class="fas fa-microphone"></i>
+            <!-- <i class="fa-solid"></i> -->
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Resultat -->
+  <section class="container mt-5">
+    <div class="row shadow-lg p-4 rounded">
+    </div>
+  </section>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js"></script>
+</body>
+
+</html>
