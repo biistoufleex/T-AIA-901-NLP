@@ -29,7 +29,7 @@ def detect_language(text):
 
 def analyze_text(text):
 
-    nlp = spacy.load('model/model_sur_entrainer')
+    nlp = spacy.load('../model/model_sur_entrainer')
     doc = nlp(text)
     
     trip_info = {"DEPART": None, "ARRIVER": None}
@@ -40,28 +40,18 @@ def analyze_text(text):
 
     if trip_info["DEPART"] and trip_info["ARRIVER"]:
         if trip_info["DEPART"].lower() == trip_info["ARRIVER"].lower():
-            return "identique"
+            return "NO_TRIP"
         return trip_info
     else:
-        return "NO TRIP"
-
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python script.py 'Votre texte ici'")
-        sys.exit(1)
-
-    text = " ".join(sys.argv[1:])
+        return "NO_TRIP"
     
+
+def start_model_ner(text):
     if detect_language(text):
-        print("Le texte est en français.")
         trip_result = analyze_text(text)
-        if trip_result != "NO TRIP" and trip_result != "identique":
-            print(f"DEPART: {trip_result['DEPART']}, ARRIVER: {trip_result['ARRIVER']}")
-            print(trip_result)
+        if trip_result != "NO_TRIP" and trip_result != "identique":
+            return 'OK'
         else:
-            if trip_result == "identique":
-                print("Vous avez renseigné un départ et une arrivée identique.")
-            else:
-                print(trip_result)
+            return 'NO_TRIP'
     else:
-        print("Le texte n'est pas en français.")
+        return 'NO_TRIP'
