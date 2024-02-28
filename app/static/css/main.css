@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7f7;
+}
+
+.btn{
+    background-color: #5a008d;
+    color: white;
+    &:hover {
+        background-color:#44006b;
+        color: white;
+      }
+}
+
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+
+/* file input */
+
+label {
+    /* background-color: indigo; */
+    background-color: #5a008d;
+
+    color: white;
+    padding: 0.5rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    &:hover {
+        background-color:#44006b;
+      }
+  }
+  
+  #file-chosen{
+    margin-left: 0.3rem;
+    font-family: sans-serif;
+  }
+
+
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Couleur de fond semi-transparente */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; /* Assure que l'overlay apparaît par-dessus le contenu */
+  }
+  
+  .overlay .spinner-border {
+    width: 3rem;
+    height: 3rem;
+
+  }
+
+  .load {
+    /* width:100%;
+    height:100vh;
+     background-color: #383737; */
+  /*     margin:0px; */
+      display: flex;
+      /* justify-content: center;
+      align-items: center; */
+  }
+  .load div {
+      width: 30px;
+      height: 30px;
+      background-color: rgb(0, 0, 0);
+      margin-left: 5px;
+      border-radius: 50%;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      -o-border-radius: 50%;
+      margin-top: calc(50px - 12.5px);
+      animation-name: loading;
+      animation-duration: 1.2s;
+      animation-iteration-count: infinite;
+      animation-direction: alternate;
+  }
+  .load-two {
+      animation-delay: 0.4s;
+  }
+  .load-three {
+      animation-delay: 0.8s;
+  }
+  @keyframes loading {
+      to {
+          opacity: 0.3;
+          transform: translateY(-25px);
+          -webkit-transform: translateY(-25px);
+          -moz-transform: translateY(-25px);
+          -ms-transform: translateY(-25px);
+          -o-transform: translateY(-25px);
+  }
+  
+  }
+
+
+
+
+  /* css mic on mic */
+  .button{
+    border-radius:5px;
+    text-align:center;
+    height:45px;
+    line-height:45px;
+    width:45px;
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(255,255,255,.4);
+    background:#282e3f;
+    border:1px solid #333947;
+    margin:20px;
+  }
+  
+  .active{
+    color:#fff;
+    background-color: #5a008d;
+    border:1px solid #5a008d;
+    &:hover {
+        background-color:#44006b;
+      }
+  }
+  
+  .pushed {
+    position: relative;
+    box-shadow: 0 0 0 0 #5a008d;
+    cursor: pointer;
+    background:#5a008d;
+    animation: pulse 2s infinite cubic-bezier(0.66, 0, 0, 1);
+    
+    /* &:hover {
+      animation: none;
+    } */
+  }
+  @keyframes pulse {to {box-shadow: 0 0 0 20px rgba(90, 0, 141, 0);}}
