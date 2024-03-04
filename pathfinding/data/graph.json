@@ -1,0 +1,4442 @@
+{
+    "HAVRE (LE )": {
+        "PARIS": 138,
+        "MONTIVILLIERS": 15,
+        "ROLLEVILLE": 26,
+        "FECAMP": 46,
+        "ROUEN": 61
+    },
+    "PARIS": {
+        "HAVRE (LE )": 138,
+        "DIEPPE": 145,
+        "ROUEN": 84,
+        "CHERBOURG": 194,
+        "CAEN": 149,
+        "DEAUVILLE": 147,
+        "GRANVILLE": 195,
+        "BOURGES": 131,
+        "VIERZON": 101,
+        "NEVERS": 146,
+        "MOULINS-SUR-ORNE": 121,
+        "JOUE-LES-TOURS": 146,
+        "FLEURY-LES-AUBRAIS": 71,
+        "SAINT-PIERRE-DES-CORPS": 118,
+        "ARQUES": 183,
+        "BOULOGNE-SUR-MER": 145,
+        "DREUIL-LÈS-AMIENS": 74,
+        "CAMBRAI": 155,
+        "MAUBEUGE": 119,
+        "ST QUENTIN": 100,
+        "MANS (LE )": 135,
+        "NOGENT-LE-ROTROU": 102,
+        "CHARTRES": 70,
+        "DIJON": 170,
+        "LYON": 323,
+        "MACON": 263,
+        "BEAUVAIS": 73,
+        "PERSAN": 63,
+        "CREIL": 21,
+        "MARGNY-LÈS-COMPIÈGNE": 56,
+        "TERGNIER": 88,
+        "ST-JUST-SNCF": 64,
+        "CLERMONT": 50,
+        "CHIVRES-EN-LAONNOIS": 90,
+        "VERNON": 60,
+        "OISSEL": 94,
+        "LE VIEIL-ÉVREUX": 69,
+        "SERQUIGNY": 105,
+        "VILLIERS-SUR-LOIR": 149,
+        "CHATEAUDUN": 97,
+        "MIGENNES": 124,
+        "MONTEREAU-FAULT-YONNE": 57,
+        "CORBIGNY": 215,
+        "AUXERRE": 119,
+        "CLAMECY": 159,
+        "AVALLON": 160
+    },
+    "DIEPPE": {
+        "PARIS": 145,
+        "ROUEN": 63
+    },
+    "ROUEN": {
+        "PARIS": 84,
+        "JOUE-LES-TOURS": 72,
+        "CAEN": 100,
+        "MANTES-LA-VILLE": 125,
+        "DREUIL-LÈS-AMIENS": 186,
+        "LILLE": 168,
+        "HAVRE (LE )": 61,
+        "YVETOT": 34,
+        "DIEPPE": 63,
+        "NANTES": 170,
+        "LE CROISIC": 258,
+        "BLOIS": 49,
+        "SAINT-PIERRE-DES-CORPS": 58,
+        "BOURGES": 73,
+        "VIERZON": 51,
+        "NEVERS": 132,
+        "ARGENTON-SUR-CREUSE": 117,
+        "CHATEAUROUX": 95,
+        "LIMOGES": 203
+    },
+    "CHERBOURG": {
+        "PARIS": 194,
+        "CAEN": 174
+    },
+    "CAEN": {
+        "PARIS": 149,
+        "MANS (LE )": 111,
+        "JOUE-LES-TOURS": 182,
+        "ROUEN": 100,
+        "RENNES": 170,
+        "CHERBOURG": 174,
+        "LISIEUX": 33,
+        "COUTANCES": 75,
+        "SAINT-LOUIS": 51,
+        "CHÂTENOIS": 167,
+        "GRANVILLE": 103,
+        "ALENCON": 71,
+        "MOULINS-SUR-ORNE": 40
+    },
+    "DEAUVILLE": {
+        "PARIS": 147,
+        "LISIEUX": 50,
+        "DIVES-SUR-MER": 35
+    },
+    "GRANVILLE": {
+        "PARIS": 195,
+        "DREUX": 142,
+        "SAINTE-MARGUERITE-D'ELLE": 84,
+        "COUTANCES": 36,
+        "VIRE-CENTRE": 75,
+        "RENNES": 110,
+        "CHÂTENOIS": 59,
+        "MOULINS-SUR-ORNE": 83,
+        "CAEN": 103
+    },
+    "DREUX": {
+        "GRANVILLE": 142,
+        "MOULINS-SUR-ORNE": 69,
+        "AIGLE (L')": 79
+    },
+    "BOURGES": {
+        "PARIS": 131,
+        "NEVERS": 38,
+        "ORVAL": 65,
+        "CHATEAUROUX": 106,
+        "ISSOUDUN": 71,
+        "VIERZON": 70,
+        "MONTLUCON": 160,
+        "JOUE-LES-TOURS": 110,
+        "COMMENTRY": 121,
+        "ROUEN": 73
+    },
+    "VIERZON": {
+        "PARIS": 101,
+        "MONTLUCON": 125,
+        "ISSOUDUN": 56,
+        "ROMORANTIN-BA-G.R.": 43,
+        "CHATEAUROUX": 90,
+        "ARGENTON-SUR-CREUSE": 130,
+        "BOURGES": 70,
+        "JOUE-LES-TOURS": 87,
+        "ROUEN": 51,
+        "NEVERS": 69,
+        "LIMOGES": 129
+    },
+    "NEVERS": {
+        "PARIS": 146,
+        "BOURGES": 38,
+        "LYON": 211,
+        "DIJON": 203,
+        "DECIZE": 33,
+        "LUZY": 98,
+        "CERCY-LA-TOUR": 68,
+        "YZEURE": 68,
+        "SAINT-PIERRE-LE-MOÛTIER": 33,
+        "NEVERS-LE-BANLAY": 13,
+        "JOUE-LES-TOURS": 146,
+        "ROUEN": 132,
+        "VIERZON": 69,
+        "CLERMONT-FERRAND": 106,
+        "VIC-LE-COMTE": 124,
+        "AUTUN": 94,
+        "COSNE-COURS-SUR-LOIRE": 48
+    },
+    "MOULINS-SUR-ORNE": {
+        "PARIS": 121,
+        "DREUX": 69,
+        "FLERS": 53,
+        "BAGNOLES- ORNE EGL.MAD.": 60,
+        "GRANVILLE": 83,
+        "CAEN": 40
+    },
+    "JOUE-LES-TOURS": {
+        "PARIS": 146,
+        "ROUEN": 72,
+        "CAEN": 182,
+        "BLOIS": 38,
+        "LYON": 366,
+        "CHÂTEAU-CHINON(CAMPAGNE)": 82,
+        "CHINON-LYCÉE-RABELAIS": 75,
+        "ST CHRISTOPHE / NAIS C.": 60,
+        "CHÂTEAU-DU-LOIR": 75,
+        "LOCHES": 58,
+        "CHATEAUROUX": 150,
+        "CORMERY": 43,
+        "REIGNAC-BOURG-DU-FAU": 74,
+        "VEIGNÉ": 15,
+        "LOCHES-LEP": 80,
+        "ESVRES": 20,
+        "CHATILLON-MAIL": 95,
+        "CHARTRES-GARE-ROUTIÈRE": 159,
+        "VILLIERS-SUR-LOIR": 65,
+        "CHATEAUDUN": 111,
+        "SAINT-PIERRE-DES-CORPS": 5,
+        "LA CELLE-SAINT-AVANT": 85,
+        "CHOUZÉ-SUR-LOIRE": 77,
+        "FLEURY-LES-AUBRAIS": 160,
+        "MANS (LE )": 133,
+        "ALENCON": 145,
+        "LE CROISIC": 190,
+        "NANTES": 93,
+        "ANGERS": 78,
+        "SAUMUR": 51,
+        "THOUARS": 78,
+        "BRESSUIRE": 103,
+        "REIGNAC-SUR-INDRE": 45,
+        "VOVES": 137,
+        "LA CROIX-EN-TOURAINE": 28,
+        "NOYERS-SUR-CHER": 57,
+        "VIERZON": 87,
+        "BOURGES": 110,
+        "NEVERS": 146,
+        "POITIERS": 74,
+        "ROCHE-SUR-YON (LA )": 199
+    },
+    "FLEURY-LES-AUBRAIS": {
+        "PARIS": 71,
+        "COSNE-COURS-SUR-LOIRE": 135,
+        "TOURY": 45,
+        "JOUE-LES-TOURS": 160,
+        "SANTILLY": 45
+    },
+    "SAINT-PIERRE-DES-CORPS": {
+        "PARIS": 118,
+        "JOUE-LES-TOURS": 5,
+        "ROUEN": 58
+    },
+    "ARQUES": {
+        "PARIS": 183,
+        "DREUIL-LÈS-AMIENS": 107,
+        "BOULOGNE-SUR-MER": 30,
+        "ARQUES": 15,
+        "MOUGINS": 68,
+        "HAZEBROUCK": 109,
+        "ETAPLES": 62,
+        "LILLE": 75,
+        "ARRAS": 123,
+        "GRANDE-SYNTHE": 50
+    },
+    "BOULOGNE-SUR-MER": {
+        "PARIS": 145,
+        "ARQUES": 30,
+        "DREUIL-LÈS-AMIENS": 75,
+        "ABBEVILLE": 104,
+        "LILLE": 72
+    },
+    "DREUIL-LÈS-AMIENS": {
+        "ARQUES": 107,
+        "BOULOGNE-SUR-MER": 75,
+        "PARIS": 74,
+        "ALBERT": 46,
+        "ARRAS": 104,
+        "ABBEVILLE": 56,
+        "LILLE": 223,
+        "DOUAI": 164,
+        "ROUEN": 186,
+        "TERGNIER": 159,
+        "ST QUENTIN": 93,
+        "ST-JUST-SNCF": 87,
+        "CREIL": 95,
+        "GRANDE-SYNTHE": 104,
+        "MARGNY-LÈS-COMPIÈGNE": 60,
+        "CHIVRES-EN-LAONNOIS": 84,
+        "ABANCOURT": 35
+    },
+    "CAMBRAI": {
+        "PARIS": 155,
+        "ST QUENTIN": 101,
+        "VALENCIENNES": 95,
+        "DOUAI": 34,
+        "LILLE": 59
+    },
+    "MAUBEUGE": {
+        "PARIS": 119,
+        "MARGNY-LÈS-COMPIÈGNE": 80,
+        "NAMUR": 84,
+        "AULNOYE-AYMERIES": 28,
+        "ST QUENTIN": 116,
+        "JEUMONT": 15,
+        "CHARLEROI SUD": 60,
+        "VALENCIENNES": 42,
+        "BUSIGNY": 36,
+        "LILLE": 72
+    },
+    "ST QUENTIN": {
+        "PARIS": 100,
+        "BUSIGNY": 60,
+        "MARGNY-LÈS-COMPIÈGNE": 100,
+        "CAMBRAI": 101,
+        "MAUBEUGE": 116,
+        "DREUIL-LÈS-AMIENS": 93,
+        "TERGNIER": 28,
+        "AULNOYE-AYMERIES": 48,
+        "LILLE": 107,
+        "DOUAI": 93,
+        "CREIL": 104
+    },
+    "MARGNY-LÈS-COMPIÈGNE": {
+        "MAUBEUGE": 80,
+        "RIBÉCOURT-DRESLINCOURT": 28,
+        "ST QUENTIN": 100,
+        "TERGNIER": 94,
+        "PARIS": 56,
+        "CREIL": 37,
+        "DREUIL-LÈS-AMIENS": 60
+    },
+    "MANS (LE )": {
+        "CAEN": 111,
+        "PARIS": 135,
+        "CHARTRES": 70,
+        "JOUE-LES-TOURS": 133,
+        "NOGENT-LE-ROTROU": 95,
+        "BEILLÉ": 50,
+        "LAVAL-DE-CÈRE": 135,
+        "CHÂTEAU-DU-LOIR": 50,
+        "ALENCON": 53,
+        "NANTES": 94,
+        "LE CROISIC": 177,
+        "ANGERS": 66,
+        "SABLE-SUR-SARTHE": 22,
+        "RENNES": 103
+    },
+    "NOGENT-LE-ROTROU": {
+        "PARIS": 102,
+        "CHARTRES": 91,
+        "MANS (LE )": 95
+    },
+    "CHARTRES": {
+        "PARIS": 70,
+        "MANS (LE )": 70,
+        "MARCHEZAIS": 50,
+        "DROUÉ (CENTRE)": 92,
+        "NOGENT-LE-ROTROU": 91,
+        "VERRIERE (LA )": 108,
+        "VERSAILLES": 110,
+        "SAINT-PELLERIN": 90,
+        "VOVES": 23,
+        "ANGERS": 163
+    },
+    "BLOIS": {
+        "JOUE-LES-TOURS": 38,
+        "LIMERAY": 35,
+        "ROUEN": 49
+    },
+    "LYON": {
+        "JOUE-LES-TOURS": 366,
+        "NEVERS": 211,
+        "GRENOBLE": 119,
+        "AVIGNON": 168,
+        "MARSEILLE": 246,
+        "SENS": 262,
+        "PARIS": 323,
+        "DIJON": 137,
+        "BOURG-SAINT-MAURICE": 217,
+        "CHAMBERY": 90,
+        "MODANE": 182,
+        "AIX-LES-BAINS": 78,
+        "ANNECY": 112,
+        "SAINT-ANDRÉ-LE-GAZ": 56,
+        "SAINT-ETIENNE": 46,
+        "LOZANNE": 48,
+        "ROANNE": 89,
+        "BONNEVILLE": 145,
+        "OYONNAX": 130,
+        "MOREZ": 195,
+        "CHAMONIX-MONT-BLANC": 240,
+        "SAINT-CLAUDE": 135,
+        "BOURGOIN-JALLIEU": 37,
+        "MACON": 60,
+        "BOURG-EN-BRESSE": 42,
+        "AMBERIEU-EN-BUGEY": 41,
+        "SAIN-BEL": 42,
+        "VIENNE-GARE-ROUTIÈRE": 53,
+        "VILLEFRANCHE-SUR-SAONE": 36,
+        "GENÈVE": 117,
+        "SAINT-GERVAIS-LES-BAINS": 228,
+        "PARAY-LE-MONIAL": 150,
+        "CLERMONT-FERRAND": 171,
+        "VALENCE-VILLE": 71,
+        "FIRMINY": 82,
+        "GIVORS": 17,
+        "VIENNE": 34,
+        "RILLIEUX-LA-PAPE": 19,
+        "ÉVEUX": 37,
+        "BRIGNAIS": 25,
+        "BESANCON": 159,
+        "MOUCHARD": 139,
+        "MEROUX": 244,
+        "LONS-LE-SAUNIER": 103
+    },
+    "ENVEITG": {
+        "VILLEFRANCHE-DE-CONFLENT": 174,
+        "AX-LES-THERMES": 49,
+        "TOULOUSE": 174,
+        "FOIX": 105
+    },
+    "VILLEFRANCHE-DE-CONFLENT": {
+        "ENVEITG": 174,
+        "FONT-ROMEU-ODEILLO-VIA": 88,
+        "PERPIGNAN": 64
+    },
+    "FONT-ROMEU-ODEILLO-VIA": {
+        "VILLEFRANCHE-DE-CONFLENT": 88
+    },
+    "BRIANCON": {
+        "ROMANS-SUR-ISERE": 241,
+        "VEYNES": 97,
+        "GAP": 75,
+        "VALENCE-VILLE": 247,
+        "MARSEILLE": 302
+    },
+    "ROMANS-SUR-ISERE": {
+        "BRIANCON": 241,
+        "VEYNES": 153,
+        "GAP": 172,
+        "SAINT-DIE": 83
+    },
+    "VEYNES": {
+        "BRIANCON": 97,
+        "ROMANS-SUR-ISERE": 153,
+        "ALIXAN": 185,
+        "VALENCE": 165,
+        "CLELLES": 56,
+        "GAP": 30,
+        "GRENOBLE": 134
+    },
+    "GAP": {
+        "ROMANS-SUR-ISERE": 172,
+        "BRIANCON": 75,
+        "MARSEILLE": 216,
+        "GRENOBLE": 181,
+        "CLELLES": 80,
+        "VEYNES": 30
+    },
+    "VALENCE-VILLE": {
+        "BRIANCON": 247,
+        "GRENOBLE": 97,
+        "CHAMBERY": 125,
+        "ANNECY": 181,
+        "GENÈVE": 195,
+        "SAINT-MARCELLIN": 39,
+        "LYON": 71,
+        "MACON": 138,
+        "MARSEILLE": 145,
+        "AVIGNON": 89
+    },
+    "MARSEILLE": {
+        "BRIANCON": 302,
+        "GAP": 216,
+        "AIX-EN-PROVENCE": 55,
+        "NICE": 159,
+        "LES ARCS": 83,
+        "LYON": 246,
+        "AVIGNON": 133,
+        "TOULON": 125,
+        "SISTERON": 175,
+        "MARTIGUES": 70,
+        "BEZIERS": 171,
+        "NARBONNE": 188,
+        "MONTPELLIER": 119,
+        "MIRAMAS": 33,
+        "CAVAILLON": 70,
+        "GARDANNE": 36,
+        "MANOSQUE": 95,
+        "AUBAGNE": 22,
+        "GARDE (LA )": 84,
+        "MENTON": 205,
+        "VALENCE-VILLE": 145
+    },
+    "AIX-EN-PROVENCE": {
+        "MARSEILLE": 55,
+        "GARDANNE": 20,
+        "MANOSQUE": 45
+    },
+    "NICE": {
+        "MARSEILLE": 159,
+        "TENDE": 137,
+        "BREIL-SUR-ROYA": 70,
+        "VENTIMIGLIA-STAZIONE": 53,
+        "GRASSE": 71,
+        "MENTON": 39,
+        "MONACO-MONTE-CARLO": 24,
+        "SOSPEL": 65,
+        "TOUËT-DE-L'ESCARÈNE": 65
+    },
+    "LES ARCS": {
+        "MARSEILLE": 83,
+        "VENTIMIGLIA-STAZIONE": 138,
+        "MENTON": 118,
+        "SAINT-RAPHAEL": 30,
+        "CANNES": 55,
+        "TOULON": 60
+    },
+    "GRENOBLE": {
+        "VALENCE-VILLE": 97,
+        "ANNECY": 103,
+        "LYON": 119,
+        "ALIXAN": 60,
+        "CHAMBERY": 53,
+        "VALENCE": 100,
+        "ÉVIAN-LES-BAINS": 210,
+        "MODANE": 130,
+        "ANNONAY": 170,
+        "SAINT-GERVAIS-LES-BAINS": 190,
+        "ANNEMASSE": 180,
+        "MONTELIMAR": 127,
+        "MOÛTIERS": 105,
+        "AUBENAS": 198,
+        "PRIVAS": 130,
+        "CHAMONIX-MONT-BLANC": 220,
+        "BOURG-SAINT-MAURICE": 160,
+        "THONON-LES-BAINS": 200,
+        "GAP": 181,
+        "CLELLES": 71,
+        "VIF": 51,
+        "GENÈVE": 144,
+        "SAINT-MARCELLIN": 40,
+        "RIVESALTES": 30,
+        "SAINT-ANDRÉ-LE-GAZ": 62,
+        "VEYNES": 134
+    },
+    "CHAMBERY": {
+        "VALENCE-VILLE": 125,
+        "ANNECY": 53,
+        "LYON": 90,
+        "BOURGOIN-JALLIEU": 55,
+        "GRENOBLE": 53,
+        "CLUSES": 130,
+        "SAINT-GERVAIS-LES-BAINS": 165,
+        "ANNEMASSE": 110,
+        "CHAMONIX-MONT-BLANC": 200,
+        "BOURG-EN-BRESSE": 170,
+        "ÉVIAN-LES-BAINS": 180,
+        "THONON-LES-BAINS": 165,
+        "BONNEVILLE": 130,
+        "BOURG-SAINT-MAURICE": 145,
+        "LE PONT-DE-BEAUVOISIN": 48,
+        "SAINT-ANDRÉ-LE-GAZ": 71,
+        "LA TOUR-DU-PIN": 86,
+        "AIX-LES-BAINS": 30,
+        "MODANE": 113,
+        "ÉPIERRE": 82,
+        "CULOZ": 65,
+        "MOÛTIERS": 80,
+        "AMBERIEU-EN-BUGEY": 73,
+        "RIVESALTES": 90
+    },
+    "ANNECY": {
+        "VALENCE-VILLE": 181,
+        "CHAMBERY": 53,
+        "AVIGNON": 277,
+        "GRENOBLE": 103,
+        "GENÈVE": 89,
+        "COPPET": 117,
+        "LYON": 112,
+        "AIX-LES-BAINS": 35,
+        "CHAMONIX-MONT-BLANC": 120,
+        "ANNEMASSE": 60,
+        "ALBENS": 45,
+        "RUMILLY": 25,
+        "LA ROCHE-SUR-FORON": 55,
+        "SAINT-GERVAIS-LES-BAINS": 97
+    },
+    "AVIGNON": {
+        "ANNECY": 277,
+        "LYON": 168,
+        "MARSEILLE": 133,
+        "CHOUZÉ-SUR-LOIRE": 259,
+        "MIRAMAS": 100,
+        "SETE": 109,
+        "MONTPELLIER": 76,
+        "NARBONNE": 144,
+        "MANDUEL": 37,
+        "PERPIGNAN": 196,
+        "CERBÈRE": 238,
+        "ORANGE": 26,
+        "AVIGNON": 5,
+        "CARPENTRAS": 41,
+        "MACON": 235,
+        "VALENCE-VILLE": 89
+    },
+    "DIJON": {
+        "PARIS": 170,
+        "LYON": 137,
+        "MACON": 74,
+        "NEVERS": 203,
+        "NEUILLY-LÈS-DIJON": 25,
+        "MIGENNES": 216,
+        "MARCILLY-SUR-TILLE": 32,
+        "SEURRE": 98,
+        "BESANCON": 164,
+        "VENAREY-LES-LAUMES": 107,
+        "SAINT-JULIEN-LES-VILLAS": 145,
+        "NEUFCHÂTEAU": 120,
+        "NANCY": 190,
+        "PARIS-EST": 223,
+        "CHALINDREY": 46,
+        "REIMS": 216,
+        "SAINT-DIZIER": 128,
+        "CLERMONT-FERRAND": 260,
+        "YZEURE": 178,
+        "AUXERRE": 114,
+        "CHALON-SUR-SAONE": 43,
+        "BOURG-EN-BRESSE": 102,
+        "ÉCUISSES": 53,
+        "AUTUN": 91,
+        "DOLE": 28
+    },
+    "SENS": {
+        "LYON": 262
+    },
+    "MACON": {
+        "PARIS": 263,
+        "DIJON": 74,
+        "LYON": 60,
+        "BOURG-EN-BRESSE": 29,
+        "AMBERIEU-EN-BUGEY": 54,
+        "VALENCE-VILLE": 138,
+        "PIERRELATTE": 189,
+        "AVIGNON": 235,
+        "VIENNE": 98,
+        "CHALON-SUR-SAONE": 39
+    },
+    "BOURG-SAINT-MAURICE": {
+        "LYON": 217,
+        "BOURGOIN-JALLIEU": 188,
+        "GRENOBLE": 160,
+        "CHAMBERY": 145,
+        "MOÛTIERS": 37,
+        "AIX-LES-BAINS": 129
+    },
+    "BOURGOIN-JALLIEU": {
+        "BOURG-SAINT-MAURICE": 188,
+        "ALBERTVILLE": 119,
+        "CHAMBERY": 55,
+        "LYON": 37
+    },
+    "ALBERTVILLE": {
+        "BOURGOIN-JALLIEU": 119,
+        "MOÛTIERS": 45
+    },
+    "LA CHAUX-DE-FONDS": {
+        "MORTEAU": 29,
+        "BESANCON": 112
+    },
+    "MORTEAU": {
+        "LA CHAUX-DE-FONDS": 29,
+        "BESANCON": 82,
+        "LE LOCLE": 20,
+        "VALDAHON": 54
+    },
+    "BESANCON": {
+        "LA CHAUX-DE-FONDS": 112,
+        "MORTEAU": 82,
+        "MOUCHARD": 58,
+        "DIJON": 164,
+        "DOLE": 78,
+        "VALDAHON": 43,
+        "AUXON-DESSUS": 23,
+        "MEROUX": 71,
+        "SAINT-CLAUDE": 148,
+        "LYON": 159,
+        "BOURG-EN-BRESSE": 118,
+        "LONS-LE-SAUNIER": 89
+    },
+    "PONTARLIER": {
+        "VALLORBE-CFF": 33,
+        "FRASNE": 30,
+        "DOMPIERRE-HALTE-ROUT.": 21,
+        "LES GRANGES-NARBOZ": 10,
+        "DOLE": 75
+    },
+    "VALLORBE-CFF": {
+        "PONTARLIER": 33,
+        "DOLE": 63,
+        "FRASNE": 17
+    },
+    "FRASNE": {
+        "NEUCHÂTEL": 60,
+        "VALLORBE-CFF": 17,
+        "PONTARLIER": 30,
+        "JOUGNE": 56,
+        "TRAVERS": 56
+    },
+    "NEUCHÂTEL": {
+        "FRASNE": 60,
+        "TRAVERS": 22
+    },
+    "TRAVERS": {
+        "NEUCHÂTEL": 22,
+        "FRASNE": 56
+    },
+    "DOLE": {
+        "VALLORBE-CFF": 63,
+        "MOUCHARD": 47,
+        "CHAMPAGNOLE": 102,
+        "SAINT-CLAUDE": 204,
+        "BESANCON": 78,
+        "DIJON": 28,
+        "PONTARLIER": 75,
+        "ANDELOT-EN-MONTAGNE": 41
+    },
+    "DELÉMONT": {
+        "MEROUX": 69,
+        "DELLE": 52
+    },
+    "MEROUX": {
+        "DELÉMONT": 69,
+        "BIEL": 99,
+        "MULHOUSE": 77,
+        "MONTREUX-VIEUX": 30,
+        "CORBENAY": 102,
+        "VESOUL": 115,
+        "MEROUX": 24,
+        "DELLE": 17,
+        "PARIS-EST": 247,
+        "SAINT-JULIEN-LES-VILLAS": 163,
+        "CHAUMONT": 105,
+        "BESANCON": 71,
+        "EPINAL": 92,
+        "MONTBÉLIARD-VILLE": 15,
+        "LYON": 244,
+        "BOURG-EN-BRESSE": 186,
+        "LONS-LE-SAUNIER": 144
+    },
+    "DELLE": {
+        "DELÉMONT": 52,
+        "BIEL": 82,
+        "MEROUX": 17
+    },
+    "BIEL": {
+        "MEROUX": 99,
+        "DELLE": 82
+    },
+    "MODANE": {
+        "LYON": 182,
+        "GRENOBLE": 130,
+        "CHAMBERY": 113,
+        "AIX-LES-BAINS": 157
+    },
+    "AIX-LES-BAINS": {
+        "LYON": 78,
+        "ANNECY": 35,
+        "CHAMBERY": 30,
+        "MODANE": 157,
+        "BOURG-SAINT-MAURICE": 129
+    },
+    "SAINT-GERVAIS-LES-BAINS": {
+        "VALLORCINE": 95,
+        "CHAMONIX-MONT-BLANC": 45,
+        "COPPET": 132,
+        "GRENOBLE": 190,
+        "CHAMBERY": 165,
+        "BELLEGARDE-SUR-VALSERINE": 135,
+        "ANNEMASSE": 111,
+        "CLUSES": 40,
+        "LYON": 228,
+        "LA ROCHE-SUR-FORON": 108,
+        "PASSY": 10,
+        "ANNECY": 97
+    },
+    "VALLORCINE": {
+        "SAINT-GERVAIS-LES-BAINS": 95,
+        "CHAMONIX-MONT-BLANC": 33
+    },
+    "CHAMONIX-MONT-BLANC": {
+        "VALLORCINE": 33,
+        "SAINT-GERVAIS-LES-BAINS": 45,
+        "ANNECY": 120,
+        "CHAMBERY": 200,
+        "LYON": 240,
+        "GRENOBLE": 220,
+        "BELLEGARDE-SUR-VALSERINE": 185
+    },
+    "AULNOYE-AYMERIES": {
+        "MONSEMPRON-LIBOS": 28,
+        "JEUMONT": 50,
+        "MAUBEUGE": 28,
+        "BUSIGNY": 82,
+        "HIRSON": 104,
+        "VALENCIENNES": 29,
+        "TERGNIER": 71,
+        "ST QUENTIN": 48,
+        "LILLE": 60,
+        "CHIVRES-EN-LAONNOIS": 111
+    },
+    "MONSEMPRON-LIBOS": {
+        "AULNOYE-AYMERIES": 28,
+        "AGEN": 65,
+        "PERIGUEUX": 104
+    },
+    "COURTRAI/KORTRIJK": {
+        "LILLE": 36
+    },
+    "LILLE": {
+        "COURTRAI/KORTRIJK": 36,
+        "TOURNAI": 30,
+        "COMINES": 54,
+        "WAMBRECHIES": 30,
+        "LENS": 80,
+        "HAZEBROUCK": 77,
+        "MOUSCRON / MOESKROEN": 49,
+        "DOUAI": 118,
+        "VALENCIENNES": 127,
+        "ARRAS": 99,
+        "DREUIL-LÈS-AMIENS": 223,
+        "GRANDE-SYNTHE": 31,
+        "MAUBEUGE": 72,
+        "AULNOYE-AYMERIES": 60,
+        "JEUMONT": 81,
+        "HIRSON": 108,
+        "CHARLEVILLE-MEZIERES": 146,
+        "BETHUNE": 39,
+        "ST QUENTIN": 107,
+        "CAMBRAI": 59,
+        "TOURCOING": 14,
+        "BOULOGNE-SUR-MER": 72,
+        "ARQUES": 75,
+        "MOUGINS": 94,
+        "ST OMER": 50,
+        "ROUEN": 168
+    },
+    "NAMUR": {
+        "MAUBEUGE": 84
+    },
+    "TOURNAI": {
+        "LILLE": 30
+    },
+    "BRIVE-LA-GAILLARDE": {
+        "USSEL": 106,
+        "ÉGLETONS": 63,
+        "PERIGUEUX": 105,
+        "LE LARDIN-SAINT-LAZARE": 44,
+        "SAINT-PIERRE-D'AURILLAC": 162,
+        "OBJAT": 46,
+        "LIMOGES": 174,
+        "TULLE": 44,
+        "MONTAUBAN": 198,
+        "CAPDENAC-GARE": 148,
+        "BORDEAUX": 143,
+        "RODEZ": 145,
+        "TOULOUSE": 147,
+        "CAHORS": 66,
+        "NEUSSARGUES-MOISSAC": 168
+    },
+    "USSEL": {
+        "BRIVE-LA-GAILLARDE": 106,
+        "SAINT-JULIEN-PUY-LAVÈZE": 39,
+        "CLERMONT-FERRAND": 100,
+        "TULLE": 89,
+        "BORT-LES-ORGUES": 35,
+        "LIMOGES": 192,
+        "BORDEAUX": 262,
+        "PERIGUEUX": 169
+    },
+    "ÉCUISSES": {
+        "ÉCUISSES": 11,
+        "AUTUN": 62,
+        "CHAGNY": 57,
+        "LUZY": 54,
+        "DIJON": 53,
+        "CHALON-SUR-SAONE": 39,
+        "ÉTANG-SUR-ARROUX": 30,
+        "PARAY-LE-MONIAL": 43
+    },
+    "TENDE": {
+        "NICE": 137,
+        "BREIL-SUR-ROYA": 40
+    },
+    "BREIL-SUR-ROYA": {
+        "NICE": 70,
+        "TENDE": 40
+    },
+    "ANNEMASSE": {
+        "COPPET": 51,
+        "GENÈVE": 23,
+        "THONON-LES-BAINS": 33,
+        "GRENOBLE": 180,
+        "CHAMBERY": 110,
+        "ÉVIAN-LES-BAINS": 60,
+        "SAINT-GERVAIS-LES-BAINS": 111,
+        "BELLEGARDE-SUR-VALSERINE": 71,
+        "LA ROCHE-SUR-FORON": 30,
+        "ANNECY": 60
+    },
+    "COPPET": {
+        "ANNEMASSE": 51,
+        "ÉVIAN-LES-BAINS": 94,
+        "THONON-LES-BAINS": 85,
+        "ANNECY": 117,
+        "LA ROCHE-SUR-FORON": 79,
+        "SAINT-GERVAIS-LES-BAINS": 132,
+        "CLUSES": 108
+    },
+    "DECIZE": {
+        "NEVERS": 33,
+        "LUZY": 54,
+        "YZEURE": 75,
+        "COSNE-COURS-SUR-LOIRE": 89
+    },
+    "GENÈVE": {
+        "ANNEMASSE": 23,
+        "ANNECY": 89,
+        "LYON": 117,
+        "BELLEGARDE-SUR-VALSERINE": 28,
+        "GRENOBLE": 144,
+        "VALENCE-VILLE": 195
+    },
+    "ÉVIAN-LES-BAINS": {
+        "COPPET": 94,
+        "GRENOBLE": 210,
+        "ANNEMASSE": 60,
+        "CHAMBERY": 180,
+        "BELLEGARDE-SUR-VALSERINE": 115,
+        "THONON-LES-BAINS": 20
+    },
+    "THONON-LES-BAINS": {
+        "COPPET": 85,
+        "ANNEMASSE": 33,
+        "CHAMBERY": 165,
+        "GRENOBLE": 200,
+        "ÉVIAN-LES-BAINS": 20
+    },
+    "LA ROCHE-SUR-FORON": {
+        "COPPET": 79,
+        "ANNEMASSE": 30,
+        "SAINT-GERVAIS-LES-BAINS": 108,
+        "ANNECY": 55,
+        "BELLEGARDE-SUR-VALSERINE": 65
+    },
+    "CLUSES": {
+        "COPPET": 108,
+        "CHAMBERY": 130,
+        "SAINT-GERVAIS-LES-BAINS": 40
+    },
+    "FORBACH": {
+        "METZ": 47,
+        "SAARBRÜCKEN /SARREBRUCK": 10
+    },
+    "METZ": {
+        "FORBACH": 47,
+        "BÉNING-LÈS-SAINT-AVOLD": 41,
+        "NANCY": 105,
+        "LONGWY": 55,
+        "JARNY": 40,
+        "VERDUN": 90,
+        "TRIER-HBF (TRÈVES)": 96,
+        "LUXEMBOURG": 49,
+        "BETTEMBOURG": 36,
+        "THIONVILLE": 27,
+        "SAARBRÜCKEN /SARREBRUCK": 60,
+        "BAR-LE-DUC": 138,
+        "CHALONS-EN-CHAMPAGNE": 228,
+        "STRASBOURG": 86,
+        "EPERNAY": 117,
+        "EPINAL": 120,
+        "REMIREMONT": 135,
+        "SARREBOURG": 62,
+        "SARREGUEMINES": 62,
+        "LUNEVILLE": 73
+    },
+    "BÉNING-LÈS-SAINT-AVOLD": {
+        "METZ": 41,
+        "SARREGUEMINES": 34,
+        "BITCHE": 71,
+        "SAARBRÜCKEN /SARREBRUCK": 53
+    },
+    "BITCHE": {
+        "HAGUENAU": 76,
+        "NIEDERBRONN-LES-BAINS": 38,
+        "BÉNING-LÈS-SAINT-AVOLD": 71,
+        "SARREGUEMINES": 56
+    },
+    "HAGUENAU": {
+        "BITCHE": 76,
+        "NIEDERBRONN-LES-BAINS": 40,
+        "STRASBOURG": 50,
+        "WISSEMBOURG": 37
+    },
+    "NIEDERBRONN-LES-BAINS": {
+        "BITCHE": 38,
+        "HAGUENAU": 40,
+        "STRASBOURG": 53
+    },
+    "STRASBOURG": {
+        "HAGUENAU": 50,
+        "SELESTAT": 53,
+        "BENFELD": 42,
+        "SARREGUEMINES": 92,
+        "DIEMERINGEN": 91,
+        "WINGEN-SUR-MODER": 64,
+        "SAVERNE": 57,
+        "HERRLISHEIM-PRÈS-COLMAR": 53,
+        "ENTZHEIM-AÉROPORT": 20,
+        "MOLSHEIM": 40,
+        "BARR": 89,
+        "ROTHAU": 72,
+        "SAALES": 104,
+        "WOERTH RHEIN": 66,
+        "SAARBRÜCKEN /SARREBRUCK": 102,
+        "MOMMENHEIM": 15,
+        "OFFENBURG": 32,
+        "BASEL": 89,
+        "INGWILLER": 66,
+        "ROESCHWOOG": 84,
+        "LAUTERBOURG": 114,
+        "KEHL": 25,
+        "ERSTEIN": 26,
+        "SARREBOURG": 59,
+        "STRASBOURG": 7,
+        "METZ": 86,
+        "WISSEMBOURG": 58,
+        "OBERNAI": 31,
+        "SAINT-DIE": 112,
+        "MULHOUSE": 61,
+        "NIEDERBRONN-LES-BAINS": 53,
+        "NANCY": 89,
+        "LUNEVILLE": 67,
+        "PARIS-EST": 359,
+        "BAR-LE-DUC": 158
+    },
+    "WISSEMBOURG": {
+        "HAGUENAU": 37,
+        "NEUSTADT (WEINSTR) HBF": 62,
+        "WINDEN PFALZ": 16,
+        "LANDAU-PFALZ-HBF": 28,
+        "STRASBOURG": 58
+    },
+    "BOUXWILLER-SCHATTENMANN": {
+        "HAGUENAU-MOULIN-NEUF.": 43,
+        "NIEDERMODERN/UBERACH": 25,
+        "OBERMODERN-ZUTZENDORF": 10
+    },
+    "HAGUENAU-MOULIN-NEUF.": {
+        "BOUXWILLER-SCHATTENMANN": 43,
+        "INGWILLER": 41,
+        "DOSSENHEIM-(MAIRIE)": 69,
+        "SAVERNE": 81,
+        "OBERMODERN-ZUTZENDORF": 31
+    },
+    "SAVERNE": {
+        "NIEDERMODERN/UBERACH": 50,
+        "HAGUENAU-MOULIN-NEUF.": 81,
+        "OBERMODERN-ZUTZENDORF": 36,
+        "NEUWILLER-R.-BOUXWILLER": 18,
+        "PFAFFENHOFFEN-(MAIRIE).": 43,
+        "STRASBOURG": 57,
+        "LUTZELBOURG": 15,
+        "FROHMUHL- (LAVOIR)": 58,
+        "HATTMATT-S.-POLYVALENTE": 20,
+        "SARRALBE": 64,
+        "SARRE-UNION": 45
+    },
+    "NIEDERMODERN/UBERACH": {
+        "SAVERNE": 50,
+        "BOUXWILLER-SCHATTENMANN": 25,
+        "OBERMODERN-ZUTZENDORF": 12,
+        "BOUXWILLER-BABENHAUSEN": 20
+    },
+    "INGWILLER": {
+        "HAGUENAU-MOULIN-NEUF.": 41,
+        "SAVERNE-(HT-BARR)": 56,
+        "REIPERTSWILLER-SP.": 18,
+        "LICHTENBERG-(EGLISE).": 23,
+        "SAVERNE-(LYCÉE-VERNE)": 64,
+        "MOMMENHEIM": 35,
+        "STRASBOURG": 66
+    },
+    "DOSSENHEIM-(MAIRIE)": {
+        "HAGUENAU-MOULIN-NEUF.": 69,
+        "BOUXWILLER-BABENHAUSEN": 20,
+        "OBERMODERN-ZUTZENDORF": 23
+    },
+    "OBERMODERN-ZUTZENDORF": {
+        "SAVERNE-(HT-BARR)": 47,
+        "BOUXWILLER-SCHATTENMANN": 10,
+        "HAGUENAU-MOULIN-NEUF.": 31,
+        "SAVERNE": 36,
+        "NIEDERMODERN/UBERACH": 12,
+        "DOSSENHEIM-(MAIRIE)": 23,
+        "PFAFFENHOFFEN-(MAIRIE).": 8
+    },
+    "SAVERNE-(HT-BARR)": {
+        "OBERMODERN-ZUTZENDORF": 47,
+        "INGWILLER": 56,
+        "FROHMUHL- (LAVOIR)": 83,
+        "HATTMATT-S.-POLYVALENTE": 43
+    },
+    "BOUXWILLER-BABENHAUSEN": {
+        "DOSSENHEIM-(MAIRIE)": 20,
+        "NIEDERMODERN/UBERACH": 20,
+        "MOMMENHEIM": 30
+    },
+    "NEUWILLER-R.-BOUXWILLER": {
+        "SAVERNE": 18
+    },
+    "PFAFFENHOFFEN-(MAIRIE).": {
+        "OBERMODERN-ZUTZENDORF": 8,
+        "SAVERNE": 43
+    },
+    "SELESTAT": {
+        "STRASBOURG": 53,
+        "MOLSHEIM": 76,
+        "RIBEAUVILLE-GARE-ROUTIÈ": 20,
+        "RIQUEWIHR-POSTE": 36,
+        "STE-MARIE-/-MINES-MAIRE": 35,
+        "SAINT-DIE": 71,
+        "STE-MARIE/-MS-(-THÉÂTRE": 36,
+        "STE-MARIE-/-MS-PL-.CDG": 35,
+        "LIÈPVRE-(RTE-VANCELLE)": 45,
+        "BASEL": 69,
+        "MULHOUSE": 40
+    },
+    "BENFELD": {
+        "STRASBOURG": 42
+    },
+    "HERRLISHEIM-PRÈS-COLMAR": {
+        "RAEDERSHEIM": 45,
+        "METZERAL": 43,
+        "STRASBOURG": 53,
+        "MUHLBACH-SUR-MUNSTER": 36,
+        "MULHOUSE": 50
+    },
+    "RAEDERSHEIM": {
+        "HERRLISHEIM-PRÈS-COLMAR": 45
+    },
+    "BUSWILLER-EGLISE": {
+        "MOMMENHEIM": 19
+    },
+    "MOMMENHEIM": {
+        "BUSWILLER-EGLISE": 19,
+        "ETTENDORF-PL,-DE-L'ECOL": 15,
+        "ETTENDORF-(ANGLE-PONT)": 13,
+        "BOUXWILLER-BABENHAUSEN": 30,
+        "STRASBOURG": 15,
+        "SARREGUEMINES": 113,
+        "SAARBRÜCKEN /SARREBRUCK": 154,
+        "INGWILLER": 35
+    },
+    "ETTENDORF-PL,-DE-L'ECOL": {
+        "MOMMENHEIM": 15
+    },
+    "ETTENDORF-(ANGLE-PONT)": {
+        "MOMMENHEIM": 13
+    },
+    "DIEMERINGEN": {
+        "SARREGUEMINES": 31,
+        "STRASBOURG": 91,
+        "SARRALBE": 36,
+        "SARRE-UNION": 20,
+        "SAARBRÜCKEN /SARREBRUCK": 75
+    },
+    "SARREGUEMINES": {
+        "DIEMERINGEN": 31,
+        "STRASBOURG": 92,
+        "BÉNING-LÈS-SAINT-AVOLD": 34,
+        "SARRE-UNION": 52,
+        "SARRALBE": 33,
+        "SARREBOURG": 116,
+        "BITCHE": 56,
+        "SAARBRÜCKEN /SARREBRUCK": 29,
+        "MOMMENHEIM": 113,
+        "METZ": 62
+    },
+    "WINGEN-SUR-MODER": {
+        "STRASBOURG": 64
+    },
+    "REIPERTSWILLER-SP.": {
+        "INGWILLER": 18
+    },
+    "LICHTENBERG-(EGLISE).": {
+        "INGWILLER": 23
+    },
+    "LUTZELBOURG": {
+        "SAVERNE": 15,
+        "SARREBOURG": 50
+    },
+    "ODEREN": {
+        "THANN": 32,
+        "MULHOUSE": 77,
+        "FELLERING": 7,
+        "THANN-SAINT-JACQUES": 28
+    },
+    "THANN": {
+        "ODEREN": 32,
+        "MULHOUSE": 26
+    },
+    "MULHOUSE": {
+        "ODEREN": 77,
+        "BASEL": 60,
+        "ALTKIRCH": 25,
+        "MEROUX": 77,
+        "MULLHEIM-BADEN-BF": 23,
+        "FREIBURG-BREISGAU": 45,
+        "HERRLISHEIM-PRÈS-COLMAR": 50,
+        "STRASBOURG": 61,
+        "ERSTEIN": 53,
+        "SELESTAT": 40,
+        "LUTTERBACH": 19,
+        "THANN-SAINT-JACQUES": 32,
+        "THANN": 26,
+        "WILLER-SUR-THUR": 36,
+        "FELLERING": 47,
+        "PARIS-EST": 294,
+        "SAINT-JULIEN-LES-VILLAS": 182,
+        "CHAUMONT": 137,
+        "LONGUEVILLE": 234
+    },
+    "FELLERING": {
+        "ODEREN": 7,
+        "THANN-SAINT-JACQUES": 19,
+        "MULHOUSE": 47
+    },
+    "METZERAL": {
+        "HERRLISHEIM-PRÈS-COLMAR": 43
+    },
+    "CERNAY": {
+        "SEWEN": 66
+    },
+    "SEWEN": {
+        "CERNAY": 66
+    },
+    "BASEL": {
+        "MULHOUSE": 60,
+        "STRASBOURG": 89,
+        "SELESTAT": 69
+    },
+    "SAVERNE-(LYCÉE-VERNE)": {
+        "INGWILLER": 64,
+        "FROHMUHL- (LAVOIR)": 85,
+        "HATTMATT-S.-POLYVALENTE": 42
+    },
+    "FROHMUHL- (LAVOIR)": {
+        "SAVERNE-(HT-BARR)": 83,
+        "SAVERNE": 58,
+        "SAVERNE-(LYCÉE-VERNE)": 85
+    },
+    "HATTMATT-S.-POLYVALENTE": {
+        "SAVERNE": 20,
+        "SAVERNE-(PL.-DRAGONS)": 33,
+        "SAVERNE-(LYCÉE-VERNE)": 42,
+        "SAVERNE-(HT-BARR)": 43
+    },
+    "SAVERNE-(PL.-DRAGONS)": {
+        "HATTMATT-S.-POLYVALENTE": 33
+    },
+    "LAUTERBOURG": {
+        "ROESCHWOOG": 30,
+        "WOERTH RHEIN": 15,
+        "STRASBOURG": 114
+    },
+    "ROESCHWOOG": {
+        "LAUTERBOURG": 30,
+        "STRASBOURG": 84
+    },
+    "ENTZHEIM-AÉROPORT": {
+        "STRASBOURG": 20
+    },
+    "BARR": {
+        "MOLSHEIM": 33,
+        "STRASBOURG": 89
+    },
+    "MOLSHEIM": {
+        "BARR": 33,
+        "STRASBOURG": 40,
+        "SELESTAT": 76,
+        "SAINT-DIE": 105,
+        "ROTHAU": 55,
+        "SAALES": 76,
+        "MUTZIG-PASSAGE-A-NIVEAU": 8
+    },
+    "ROTHAU": {
+        "STRASBOURG": 72,
+        "SAINT-DIE": 50,
+        "MOLSHEIM": 55,
+        "SAALES": 22
+    },
+    "SAALES": {
+        "STRASBOURG": 104,
+        "SAINT-DIE": 28,
+        "ROTHAU": 22,
+        "MOLSHEIM": 76
+    },
+    "ALTKIRCH": {
+        "MULHOUSE": 25
+    },
+    "MONTREUX-VIEUX": {
+        "MEROUX": 30
+    },
+    "RIBEAUVILLE-GARE-ROUTIÈ": {
+        "SELESTAT": 20
+    },
+    "RIQUEWIHR-POSTE": {
+        "SELESTAT": 36
+    },
+    "STE-MARIE-/-MINES-MAIRE": {
+        "SELESTAT": 35,
+        "SÈLESTAT-(SCHWILGUÉ)": 64
+    },
+    "SAINT-DIE": {
+        "SELESTAT": 71,
+        "LAVELINE-D-BRUY. MAIRIE": 64,
+        "EPINAL": 65,
+        "BRUYÈRES": 48,
+        "ARCHES": 85,
+        "VALENCE": 75,
+        "SAALES": 28,
+        "MOLSHEIM": 105,
+        "ROTHAU": 50,
+        "NANCY": 121,
+        "LUNEVILLE": 41,
+        "STRASBOURG": 112,
+        "ROMANS-SUR-ISERE": 83
+    },
+    "STE-MARIE/-MS-(-THÉÂTRE": {
+        "SELESTAT": 36
+    },
+    "STE-CROIX/MINES-SQ-DE-G": {
+        "SÈLESTAT-(SCHWILGUÉ)": 55
+    },
+    "SÈLESTAT-(SCHWILGUÉ)": {
+        "STE-CROIX/MINES-SQ-DE-G": 55,
+        "STE-MARIE-/-MINES-MAIRE": 64,
+        "LIEPVRE-(-R.-GUTH-)": 49
+    },
+    "STE-MARIE-/-MS-PL-.CDG": {
+        "SELESTAT": 35,
+        "SÉLESTAT-(SCHWEISGUTH)": 69
+    },
+    "LIEPVRE-(-R.-GUTH-)": {
+        "SÈLESTAT-(SCHWILGUÉ)": 49
+    },
+    "SÉLESTAT-(SCHWEISGUTH)": {
+        "STE-MARIE-/-MS-PL-.CDG": 69
+    },
+    "LIÈPVRE-(RTE-VANCELLE)": {
+        "SELESTAT": 45
+    },
+    "MONTLUCON": {
+        "VIERZON": 125,
+        "VICHY": 108,
+        "CLERMONT-FERRAND": 146,
+        "RIOM": 120,
+        "URCAY-HOTEL-DU-LYON-D'O": 44,
+        "ORVAL": 59,
+        "SAINT-ÉLOY-LES-MINES": 40,
+        "ST-GERVAIS-CH-LPA.": 60,
+        "GUERET": 66,
+        "COMMENTRY": 25,
+        "BOURGES": 160,
+        "VALLON-EN-SULLY": 31,
+        "LIMOGES": 131,
+        "BORDEAUX": 259
+    },
+    "SAINT-JULIEN-PUY-LAVÈZE": {
+        "LE-MONT-DORE-GARE": 24,
+        "USSEL": 39
+    },
+    "LE-MONT-DORE-GARE": {
+        "SAINT-JULIEN-PUY-LAVÈZE": 24,
+        "CLERMONT-FERRAND": 84
+    },
+    "CLERMONT-FERRAND": {
+        "GANNAT": 57,
+        "LE-MONT-DORE-GARE": 84,
+        "SAINT-ETIENNE": 156,
+        "PUY-EN-VELAY (LE )": 184,
+        "MONTLUCON": 146,
+        "THIERS": 71,
+        "VOLVIC": 39,
+        "SAINT-GEORGES-DE-MONS": 69,
+        "ST-GERVAIS-MAIRIE": 91,
+        "LE MONT DORE SKI": 98,
+        "VERTAIZON": 32,
+        "MAURIAC-LYCÉE-CORTAT": 136,
+        "MAURIAC": 133,
+        "SAINT-FLOUR": 93,
+        "USSEL": 100,
+        "MENDE": 180,
+        "YZEURE": 165,
+        "RIOM": 25,
+        "VICHY": 85,
+        "ALES": 344,
+        "SAINT-PIERRE-D'AURILLAC": 152,
+        "BOURNONCLE-SAINT-PIERRE": 47,
+        "DURTOL": 13,
+        "SAINT-GERMAIN-DES-FOSSÉS": 40,
+        "NEVERS": 106,
+        "VIC-LE-COMTE": 21,
+        "BRIOUDE": 67,
+        "ISSOIRE": 40,
+        "LAVEISSIÈRE": 111,
+        "MANDUEL": 307,
+        "DIJON": 260,
+        "LYON": 171
+    },
+    "GANNAT": {
+        "CLERMONT-FERRAND": 57,
+        "RIOM": 46,
+        "VICHY": 32,
+        "ISSOIRE": 81,
+        "VIC-LE-COMTE": 66,
+        "BRIOUDE": 100
+    },
+    "RIOM": {
+        "GANNAT": 46,
+        "MONTLUCON": 120,
+        "ST-GERVAIS-CH-LPA.": 54,
+        "CLERMONT-FERRAND": 25,
+        "ISSOIRE": 57,
+        "VIC-LE-COMTE": 38
+    },
+    "SAINT-PIERRE-D'AURILLAC": {
+        "SAINT-DENIS-LÈS-MARTEL": 111,
+        "CAPDENAC-GARE": 88,
+        "BOURNONCLE-SAINT-PIERRE": 121,
+        "NEUSSARGUES-MOISSAC": 74,
+        "FIGEAC": 80,
+        "BRIVE-LA-GAILLARDE": 162,
+        "TOULOUSE": 244,
+        "CLERMONT-FERRAND": 152
+    },
+    "SAINT-DENIS-LÈS-MARTEL": {
+        "SAINT-PIERRE-D'AURILLAC": 111,
+        "SOUILLAC": 27
+    },
+    "CAPDENAC-GARE": {
+        "SAINT-PIERRE-D'AURILLAC": 88,
+        "FIGEAC": 20,
+        "RODEZ": 86,
+        "BRIVE-LA-GAILLARDE": 148,
+        "TOULOUSE": 137
+    },
+    "VICHY": {
+        "MONTLUCON": 108,
+        "YZEURE": 78,
+        "AMBERT": 119,
+        "PESCHADOIRES": 66,
+        "CLERMONT-FERRAND": 85,
+        "GANNAT": 32
+    },
+    "SAINT-ETIENNE": {
+        "CLERMONT-FERRAND": 156,
+        "THIERS": 118,
+        "PUY-EN-VELAY (LE )": 113,
+        "LYON": 46,
+        "VALENCE": 110,
+        "BOËN": 53,
+        "NOIRÉTABLE": 108,
+        "MONTBRISON": 40,
+        "FEURS": 60,
+        "ROANNE": 73,
+        "FIRMINY": 22,
+        "AMBERIEU-EN-BUGEY": 97,
+        "BAS-EN-BASSET": 55
+    },
+    "THIERS": {
+        "SAINT-ETIENNE": 118,
+        "CLERMONT-FERRAND": 71,
+        "VERTAIZON": 40
+    },
+    "PUY-EN-VELAY (LE )": {
+        "CLERMONT-FERRAND": 184,
+        "BRIOUDE": 64,
+        "LANGEAC": 49,
+        "MAZEYRAT-D'ALLIER": 53,
+        "BOURNONCLE-SAINT-PIERRE": 81,
+        "SAINT-ETIENNE": 113,
+        "LA CHAISE-DIEU": 47,
+        "AMBERT": 107,
+        "MARVEJOLS": 135,
+        "FIRMINY": 129,
+        "VOREY": 41
+    },
+    "BOURNONCLE-SAINT-PIERRE": {
+        "SAINT-PIERRE-D'AURILLAC": 121,
+        "SAINT-FLOUR": 50,
+        "SAINT-CHÉLY-D'APCHER": 77,
+        "PUY-EN-VELAY (LE )": 81,
+        "ISSOIRE": 46,
+        "BRIOUDE": 12,
+        "LANGEAC": 46,
+        "MANDUEL": 334,
+        "ALES": 263,
+        "CLERMONT-FERRAND": 47
+    },
+    "YZEURE": {
+        "VICHY": 78,
+        "NEVERS": 68,
+        "PARAY-LE-MONIAL": 82,
+        "CLERMONT-FERRAND": 165,
+        "VIC-LE-COMTE": 92,
+        "ISSOIRE": 113,
+        "BRIOUDE": 149,
+        "DIJON": 178,
+        "DECIZE": 75
+    },
+    "VOLVIC": {
+        "CLERMONT-FERRAND": 39,
+        "SAINT-GEORGES-DE-MONS": 39,
+        "SAINT-ÉLOY-LES-MINES": 113,
+        "PONTGIBAUD-VILLE": 22
+    },
+    "SAINT-GEORGES-DE-MONS": {
+        "VOLVIC": 39,
+        "CLERMONT-FERRAND": 69
+    },
+    "URCAY-HOTEL-DU-LYON-D'O": {
+        "MONTLUCON": 44
+    },
+    "ORVAL": {
+        "MONTLUCON": 59,
+        "BOURGES-GARE-ROUTIÈRE": 76,
+        "BOURGES": 65,
+        "COMMENTRY": 98
+    },
+    "VERTAIZON": {
+        "THIERS": 40,
+        "CLERMONT-FERRAND": 32
+    },
+    "SAINT-ÉLOY-LES-MINES": {
+        "MONTLUCON": 40,
+        "VOLVIC": 113,
+        "MANTHES": 15
+    },
+    "MANTHES": {
+        "ST-ELOY-LES-MINES-LYCÉE": 20,
+        "SAINT-ÉLOY-LES-MINES": 15
+    },
+    "ST-ELOY-LES-MINES-LYCÉE": {
+        "MANTHES": 20
+    },
+    "ST-GERVAIS-MAIRIE": {
+        "CLERMONT-FERRAND": 91
+    },
+    "LE MONT DORE SKI": {
+        "CLERMONT-FERRAND": 98
+    },
+    "SAINT-FLOUR": {
+        "BOURNONCLE-SAINT-PIERRE": 50,
+        "MASSIAC": 30,
+        "CLERMONT-FERRAND": 93,
+        "NEUSSARGUES-MOISSAC": 31,
+        "SAINT-CHÉLY-D'APCHER": 30
+    },
+    "MASSIAC": {
+        "SAINT-FLOUR": 30,
+        "SAINT-CHÉLY-D'APCHER": 49
+    },
+    "SAINT-CHÉLY-D'APCHER": {
+        "BOURNONCLE-SAINT-PIERRE": 77,
+        "NEUSSARGUES-MOISSAC": 56,
+        "SAINT-FLOUR": 30,
+        "MASSIAC": 49,
+        "MENDE": 84,
+        "BEZIERS": 244,
+        "MILLAU": 111,
+        "MONTPELLIER": 297
+    },
+    "MAURIAC-LYCÉE-CORTAT": {
+        "CLERMONT-FERRAND": 136
+    },
+    "MAURIAC": {
+        "CLERMONT-FERRAND": 133
+    },
+    "ST-GERVAIS-CH-LPA.": {
+        "RIOM": 54,
+        "MONTLUCON": 60
+    },
+    "NEUSSARGUES-MOISSAC": {
+        "RIOM_ES_M_LA_POSTE.": 69,
+        "SAINT-CHÉLY-D'APCHER": 56,
+        "SAINT-FLOUR": 31,
+        "SAINT-PIERRE-D'AURILLAC": 74,
+        "BRIVE-LA-GAILLARDE": 168
+    },
+    "RIOM_ES_M_LA_POSTE.": {
+        "NEUSSARGUES-MOISSAC": 69
+    },
+    "PONTGIBAUD-VILLE": {
+        "VOLVIC": 22
+    },
+    "BRIOUDE-LYCÉE-LAFAYETTE": {
+        "BRIOUDE": 5
+    },
+    "BRIOUDE": {
+        "BRIOUDE-LYCÉE-LAFAYETTE": 5,
+        "LANGEAC": 37,
+        "PUY-EN-VELAY (LE )": 64,
+        "ISSOIRE": 54,
+        "BOURNONCLE-SAINT-PIERRE": 12,
+        "ALES": 254,
+        "CLERMONT-FERRAND": 67,
+        "GANNAT": 100,
+        "YZEURE": 149
+    },
+    "LANGEAC": {
+        "MAZEYRAT-D'ALLIER": 10,
+        "ST-GEORGE-D'AURAC-BOURG": 12,
+        "BRIOUDE": 37,
+        "PUY-EN-VELAY (LE )": 49,
+        "BOURNONCLE-SAINT-PIERRE": 46
+    },
+    "MAZEYRAT-D'ALLIER": {
+        "LANGEAC": 10,
+        "PUY-EN-VELAY (LE )": 53
+    },
+    "ST-GEORGE-D'AURAC-BOURG": {
+        "LANGEAC": 12
+    },
+    "LA CHAISE-DIEU": {
+        "PUY-EN-VELAY (LE )": 47
+    },
+    "AMBERT": {
+        "PUY-EN-VELAY (LE )": 107,
+        "VICHY": 119
+    },
+    "PESCHADOIRES": {
+        "VICHY": 66
+    },
+    "ISSOIRE": {
+        "BOURNONCLE-SAINT-PIERRE": 46,
+        "LE-BREUIL-SUR-COUZE-LYC": 13,
+        "BRIOUDE": 54,
+        "CLERMONT-FERRAND": 40,
+        "YZEURE": 113,
+        "RIOM": 57,
+        "SAINT-GERMAIN-DES-FOSSÉS": 88,
+        "GANNAT": 81
+    },
+    "VIC-LE-COMTE": {
+        "ISSOIRE-LYCÉE-DEVILLE": 30,
+        "CLERMONT-FERRAND": 21,
+        "NEVERS": 124,
+        "YZEURE": 92,
+        "SAINT-GERMAIN-DES-FOSSÉS": 66,
+        "RIOM": 38,
+        "GANNAT": 66
+    },
+    "ISSOIRE-LYCÉE-DEVILLE": {
+        "VIC-LE-COMTE": 30
+    },
+    "LE-BREUIL-SUR-COUZE-LYC": {
+        "ISSOIRE": 13
+    },
+    "LUZY": {
+        "NEVERS": 98,
+        "DECIZE": 54,
+        "ÉCUISSES": 54
+    },
+    "CERCY-LA-TOUR": {
+        "NEVERS": 68
+    },
+    "AUTUN": {
+        "ÉTANG-SUR-ARROUX": 21,
+        "ÉCUISSES": 62,
+        "DIJON": 91,
+        "NEVERS": 94
+    },
+    "ÉTANG-SUR-ARROUX": {
+        "AUTUN": 21,
+        "ÉCUISSES": 30
+    },
+    "SAINT-PIERRE-LE-MOÛTIER": {
+        "NEVERS": 33
+    },
+    "PARAY-LE-MONIAL": {
+        "YZEURE": 82,
+        "LOZANNE": 120,
+        "LYON": 150,
+        "ÉCUISSES": 43
+    },
+    "CHAUFFAILLES": {
+        "DIGOIN": 67
+    },
+    "DIGOIN": {
+        "CHAUFFAILLES": 67,
+        "LOZANNE": 133
+    },
+    "LOZANNE": {
+        "DIGOIN": 133,
+        "LYON": 48,
+        "GRANDRIS-CENTRE": 42,
+        "LAMURE-SUR-AZERGUES": 46,
+        "POULE-MAIRIE": 60,
+        "PARAY-LE-MONIAL": 120,
+        "LÉGNY": 23,
+        "TASSIN-LA-DEMI-LUNE": 25
+    },
+    "LOUHANS": {
+        "SEURRE": 48
+    },
+    "SEURRE": {
+        "LOUHANS": 48,
+        "BOURG-EN-BRESSE": 103,
+        "DIJON": 98
+    },
+    "BOURG-EN-BRESSE": {
+        "SEURRE": 103,
+        "CHAMBERY": 170,
+        "LYON": 42,
+        "MACON": 29,
+        "AMBERIEU-EN-BUGEY": 23,
+        "LONS-LE-SAUNIER": 89,
+        "OYONNAX": 53,
+        "DIJON": 102,
+        "BESANCON": 118,
+        "MEROUX": 186,
+        "MOUCHARD": 81
+    },
+    "AUXERRE": {
+        "AVALLON": 63,
+        "CLAMECY": 76,
+        "CORBIGNY": 111,
+        "MIGENNES": 28,
+        "PARIS": 119,
+        "DIJON": 114
+    },
+    "AVALLON": {
+        "AUXERRE": 63,
+        "MIGENNES": 110,
+        "PARIS": 160
+    },
+    "CLAMECY": {
+        "AUXERRE": 76,
+        "CORBIGNY": 35,
+        "MIGENNES": 113,
+        "PARIS": 159
+    },
+    "CORBIGNY": {
+        "AUXERRE": 111,
+        "CLAMECY": 35,
+        "PARIS": 215,
+        "MIGENNES": 113
+    },
+    "LORIENT": {
+        "QUIMPERLE": 95,
+        "ROSPORDEN": 65,
+        "VANNES": 80,
+        "ENSUÈS-LA-REDONNE": 140
+    },
+    "QUIMPERLE": {
+        "LORIENT": 95,
+        "BREST": 130,
+        "LANDERNEAU": 95,
+        "VANNES": 86,
+        "RENNES": 141,
+        "NANTES": 174
+    },
+    "CHATEAUBRIANT": {
+        "JANZÉ": 57,
+        "RETIERS": 33,
+        "NANTES": 67
+    },
+    "JANZÉ": {
+        "CHATEAUBRIANT": 57,
+        "RENNES": 36
+    },
+    "RETIERS": {
+        "CHATEAUBRIANT": 33,
+        "RENNES": 42
+    },
+    "DINAN": {
+        "CHÂTENOIS": 30,
+        "SAINT-BRIEUC": 60,
+        "LAMBALLE": 73
+    },
+    "CHÂTENOIS": {
+        "DINAN": 30,
+        "CAEN": 167,
+        "GRANVILLE": 59,
+        "RENNES": 33
+    },
+    "VALENÇAY": {
+        "LUÇAY-LE-MÂLE": 15,
+        "ROMORANTIN-LANTHENAY": 45,
+        "SALBRIS": 87
+    },
+    "LUÇAY-LE-MÂLE": {
+        "VALENÇAY": 15
+    },
+    "ROMORANTIN-LANTHENAY": {
+        "SALBRIS": 50,
+        "ROMORANTIN-LANTHENAY": 5,
+        "VALENÇAY": 45
+    },
+    "SALBRIS": {
+        "ROMORANTIN-LANTHENAY": 50,
+        "VALENÇAY": 87
+    },
+    "LA FERTÉ-SUR-CHIERS": {
+        "SEDAN-PLACE-CALONNE": 59
+    },
+    "SEDAN-PLACE-CALONNE": {
+        "LA FERTÉ-SUR-CHIERS": 59
+    },
+    "CHALONS-EN-CHAMPAGNE": {
+        "VERDUN": 108,
+        "CHAUMONT": 164,
+        "SAINT-DIZIER": 75,
+        "ÉTAMPES-SUR-MARNE": 105,
+        "BAR-LE-DUC": 110,
+        "METZ": 228,
+        "PARIS-EST": 101,
+        "REIMS": 44
+    },
+    "VERDUN": {
+        "CHALONS-EN-CHAMPAGNE": 108,
+        "METZ": 90,
+        "JARNY": 45,
+        "MONDELANGE": 113,
+        "NANCY": 108
+    },
+    "SAINT-DIZIER": {
+        "VITRY-LE-FRANCOIS": 51,
+        "JOINVILLE": 50,
+        "CHAUMONT": 123,
+        "CHALONS-EN-CHAMPAGNE": 75,
+        "BAR-LE-DUC": 35,
+        "PARIS-EST": 140,
+        "ÉTAMPES-SUR-MARNE": 85,
+        "REIMS": 93,
+        "CHALINDREY": 89,
+        "DIJON": 128
+    },
+    "VITRY-LE-FRANCOIS": {
+        "SAINT-DIZIER": 51
+    },
+    "JOINVILLE": {
+        "SAINT-DIZIER": 50,
+        "CHAUMONT": 77
+    },
+    "CHAUMONT": {
+        "SAINT-DIZIER": 123,
+        "JOINVILLE": 77,
+        "LANGRES-GENDARMERIE": 67,
+        "SAINT-JULIEN-LES-VILLAS": 100,
+        "VENDEUVRE": 60,
+        "VILLE-SOUS-LA-FERTÉ": 48,
+        "BRICON(LA POSTE)": 19,
+        "CHALONS-EN-CHAMPAGNE": 164,
+        "CHALINDREY": 33,
+        "PARIS-EST": 145,
+        "MULHOUSE": 137,
+        "MEROUX": 105,
+        "REIMS": 130
+    },
+    "LANGRES-GENDARMERIE": {
+        "CHAUMONT": 67
+    },
+    "SAINT-JULIEN-LES-VILLAS": {
+        "CHAUMONT": 100,
+        "BAR-SUR-SEINE": 98,
+        "VENDEUVRE": 55,
+        "VERGIGNY": 97,
+        "MIGENNES": 130,
+        "ROMILLY-SUR-SEINE": 78,
+        "PAYNS ABRI SAVIÈRES": 26,
+        "CHALINDREY": 161,
+        "DIJON": 145,
+        "PARIS-EST": 90,
+        "MULHOUSE": 182,
+        "MEROUX": 163
+    },
+    "BAR-SUR-SEINE": {
+        "JUVANCOURT": 32,
+        "SAINT-JULIEN-LES-VILLAS": 98
+    },
+    "JUVANCOURT": {
+        "BAR-SUR-SEINE": 32,
+        "BAYEL-EGLISE": 18,
+        "VENDEUVRE": 85
+    },
+    "VENDEUVRE": {
+        "SAINT-JULIEN-LES-VILLAS": 55,
+        "CHAUMONT": 60,
+        "JUVANCOURT": 85
+    },
+    "BAYEL-EGLISE": {
+        "JUVANCOURT": 18
+    },
+    "VILLE-SOUS-LA-FERTÉ": {
+        "CHAUMONT": 48
+    },
+    "BRICON(LA POSTE)": {
+        "CHAUMONT": 19
+    },
+    "VERGIGNY": {
+        "SAINT-JULIEN-LES-VILLAS": 97
+    },
+    "MIGENNES": {
+        "SAINT-JULIEN-LES-VILLAS": 130,
+        "DIJON": 216,
+        "TONNERRE": 69,
+        "MONTEREAU-FAULT-YONNE": 148,
+        "CLAMECY": 113,
+        "AUXERRE": 28,
+        "AVALLON": 110,
+        "PARIS": 124,
+        "CORBIGNY": 113
+    },
+    "ROMILLY-SUR-SEINE": {
+        "SAINT-JULIEN-LES-VILLAS": 78,
+        "NOGENT-SUR-SEINE": 35
+    },
+    "PAYNS ABRI SAVIÈRES": {
+        "SAINT-JULIEN-LES-VILLAS": 26
+    },
+    "NOGENT-SUR-SEINE": {
+        "ROMILLY-SUR-SEINE": 35
+    },
+    "CHARLEVILLE-MEZIERES": {
+        "HIRSON": 60,
+        "GIVET": 107,
+        "NOUZONVILLE": 20,
+        "REIMS": 80,
+        "SEDAN": 43,
+        "LONGWY": 151,
+        "LONGUYON": 60,
+        "THIONVILLE": 96,
+        "BEZANNES": 71,
+        "LILLE": 146
+    },
+    "HIRSON": {
+        "CHARLEVILLE-MEZIERES": 60,
+        "AVESNES-SUR-HELPE": 55,
+        "LAON-GARE-ROUTIÈRE-POMA": 80,
+        "AULNOYE-AYMERIES": 104,
+        "VALENCIENNES": 90,
+        "LILLE": 108,
+        "CHIVRES-EN-LAONNOIS": 51
+    },
+    "FISMES": {
+        "REIMS": 58
+    },
+    "REIMS": {
+        "FISMES": 58,
+        "CHARLEVILLE-MEZIERES": 80,
+        "SEDAN": 163,
+        "CHIVRES-EN-LAONNOIS": 110,
+        "BEZANNES": 12,
+        "ÉTAMPES-SUR-MARNE": 66,
+        "CHALONS-EN-CHAMPAGNE": 44,
+        "SAINT-DIZIER": 93,
+        "CHALINDREY": 171,
+        "CHAUMONT": 130,
+        "DIJON": 216,
+        "EPERNAY": 35
+    },
+    "CORBENAY": {
+        "MEROUX": 102,
+        "LURE": 37
+    },
+    "LURE": {
+        "CORBENAY": 37
+    },
+    "LE LOCLE": {
+        "MORTEAU": 20
+    },
+    "VALDAHON": {
+        "MORTEAU": 54,
+        "BESANCON": 43
+    },
+    "MOUCHARD": {
+        "DOLE": 47,
+        "LONS-LE-SAUNIER": 84,
+        "POLIGNY": 28,
+        "BESANCON": 58,
+        "SAINT-CLAUDE": 124,
+        "LYON": 139,
+        "BOURG-EN-BRESSE": 81
+    },
+    "LONS-LE-SAUNIER": {
+        "MOUCHARD": 84,
+        "BOURG-EN-BRESSE": 89,
+        "LYON": 103,
+        "MEROUX": 144,
+        "BESANCON": 89
+    },
+    "POLIGNY": {
+        "MOUCHARD": 28
+    },
+    "DOMPIERRE-HALTE-ROUT.": {
+        "PONTARLIER": 21
+    },
+    "LES GRANGES-NARBOZ": {
+        "PONTARLIER": 10
+    },
+    "JOUGNE": {
+        "FRASNE": 56
+    },
+    "CHAMPAGNOLE": {
+        "SAINT-CLAUDE": 87,
+        "DOLE": 102
+    },
+    "SAINT-CLAUDE": {
+        "CHAMPAGNOLE": 87,
+        "ANDELOT-EN-MONTAGNE": 107,
+        "DOLE": 204,
+        "MOUCHARD": 124,
+        "LYON": 135,
+        "BESANCON": 148
+    },
+    "ANDELOT-EN-MONTAGNE": {
+        "SAINT-CLAUDE": 107,
+        "DOLE": 41
+    },
+    "ALES": {
+        "MANDUEL": 50,
+        "CLERMONT-FERRAND": 344,
+        "BRIOUDE": 254,
+        "GÉNOLHAC": 57,
+        "LA BASTIDE-PUYLAURENT": 111,
+        "MENDE": 187,
+        "LANGOGNE": 136,
+        "BOURNONCLE-SAINT-PIERRE": 263
+    },
+    "MANDUEL": {
+        "ALES": 50,
+        "CHOUZÉ-SUR-LOIRE": 209,
+        "BOURNONCLE-SAINT-PIERRE": 334,
+        "LE GRAU-DU-ROI": 93,
+        "LANGOGNE": 180,
+        "MENDE": 247,
+        "MARVEJOLS": 297,
+        "CLERMONT-FERRAND": 307,
+        "TOULOUSE": 210,
+        "CARCASSONNE": 140,
+        "MONTPELLIER": 43,
+        "SETE": 66,
+        "AVIGNON": 37,
+        "PERPIGNAN": 160,
+        "NARBONNE": 98,
+        "CERBÈRE": 197,
+        "GÉNOLHAC": 77,
+        "LA BASTIDE-PUYLAURENT": 114,
+        "VAUVERT": 24
+    },
+    "LA BASTIDE-PUYLAURENT": {
+        "LANGOGNE": 25,
+        "MENDE": 68,
+        "MARVEJOLS": 133,
+        "ALES": 111,
+        "MANDUEL": 114
+    },
+    "LANGOGNE": {
+        "LA BASTIDE-PUYLAURENT": 25,
+        "MENDE": 90,
+        "ALES": 136,
+        "MANDUEL": 180
+    },
+    "MENDE": {
+        "LANGOGNE": 90,
+        "LA BASTIDE-PUYLAURENT": 68,
+        "CLERMONT-FERRAND": 180,
+        "SAINT-CHÉLY-D'APCHER": 84,
+        "MARVEJOLS": 48,
+        "ALES": 187,
+        "MANDUEL": 247
+    },
+    "MILLAU": {
+        "MARVEJOLS": 75,
+        "RODEZ": 85,
+        "LAISSAC-FOIRAIL": 60,
+        "BEZIERS": 117,
+        "SAINT-CHÉLY-D'APCHER": 111
+    },
+    "MARVEJOLS": {
+        "MILLAU": 75,
+        "PUY-EN-VELAY (LE )": 135,
+        "LA BASTIDE-PUYLAURENT": 133,
+        "MENDE": 48,
+        "MANDUEL": 297
+    },
+    "CARCASSONNE": {
+        "QUILLAN": 90,
+        "LIMOUX": 55,
+        "CASTELNAUDARY": 59,
+        "TOULOUSE": 74,
+        "NARBONNE": 36,
+        "MANDUEL": 140,
+        "PERPIGNAN": 91
+    },
+    "QUILLAN": {
+        "CARCASSONNE": 90,
+        "LIMOUX": 45
+    },
+    "LIMOUX": {
+        "CARCASSONNE": 55,
+        "QUILLAN": 45
+    },
+    "BÉDARIEUX": {
+        "BEZIERS": 60
+    },
+    "BEZIERS": {
+        "BÉDARIEUX": 60,
+        "MARSEILLE": 171,
+        "SAINT-CHÉLY-D'APCHER": 244,
+        "MILLAU": 117
+    },
+    "GUERET": {
+        "MONTLUCON": 66,
+        "LIMOGES": 111,
+        "FELLETIN": 52,
+        "BORDEAUX": 208
+    },
+    "TULLE": {
+        "USSEL": 89,
+        "ÉGLETONS": 40,
+        "LE LARDIN-SAINT-LAZARE": 85,
+        "BRIVE-LA-GAILLARDE": 44,
+        "BORDEAUX": 193
+    },
+    "ÉGLETONS": {
+        "TULLE": 40,
+        "MEYMAC": 25,
+        "BRIVE-LA-GAILLARDE": 63
+    },
+    "MEYMAC": {
+        "ÉGLETONS": 25
+    },
+    "BORT-LES-ORGUES": {
+        "USSEL": 35
+    },
+    "NANCY": {
+        "MIRECOURT": 71,
+        "DAMBLAIN": 150,
+        "CONTREXÉVILLE": 116,
+        "MARTIGNY-LES-B-THIEBAUT": 133,
+        "VITTEL": 92,
+        "NEUFCHÂTEAU": 62,
+        "NEUFCHATEAU-LP": 88,
+        "METZ": 105,
+        "LUXEMBOURG": 92,
+        "THIONVILLE": 65,
+        "BETTEMBOURG": 79,
+        "LUNEVILLE": 71,
+        "EPINAL": 79,
+        "LONGWY": 172,
+        "PONT-SAINT-VINCENT": 60,
+        "BAR-LE-DUC": 88,
+        "REMIREMONT": 160,
+        "DOMMARY-BARONCOURT": 109,
+        "SAINT-DIE": 121,
+        "REVIGNY-SUR-ORNAIN": 144,
+        "LIVERDUN": 25,
+        "VERDUN": 108,
+        "DIJON": 190,
+        "JARNY": 51,
+        "EPERNAY": 123,
+        "STRASBOURG": 89,
+        "TOULOUSE": 23,
+        "PARIS-EST": 199
+    },
+    "MIRECOURT": {
+        "NANCY": 71,
+        "CONTREXÉVILLE": 39,
+        "VITTEL": 26,
+        "CHARMES": 33,
+        "EPINAL": 44
+    },
+    "MARTIGNY-LES-B-THIEBAUT": {
+        "VÉZELISE": 90,
+        "NANCY": 133
+    },
+    "VÉZELISE": {
+        "MARTIGNY-LES-B-THIEBAUT": 90
+    },
+    "DAMBLAIN": {
+        "NANCY": 150
+    },
+    "CONTREXÉVILLE": {
+        "NANCY": 116,
+        "MIRECOURT": 39,
+        "EPINAL": 60
+    },
+    "VITTEL": {
+        "MIRECOURT": 26,
+        "NANCY": 92,
+        "CHARMES": 60,
+        "NEUFCHÂTEAU": 45,
+        "CHALINDREY": 49,
+        "PARIS-EST": 230
+    },
+    "CHARMES": {
+        "VITTEL": 60,
+        "MIRECOURT": 33,
+        "EPINAL": 40
+    },
+    "IGNEY": {
+        "SARREBOURG-LP-MESSMER": 45,
+        "SARREBOURG": 39
+    },
+    "SARREBOURG-LP-MESSMER": {
+        "IGNEY": 45,
+        "LOUDREFING": 54,
+        "ST-JEAN-DE-BASSEL-EGLIS": 31,
+        "FÉNÉTRANGE (GENDARM.)": 30
+    },
+    "SARREBOURG": {
+        "IGNEY": 39,
+        "MORHANGE": 94,
+        "LOUDREFING": 50,
+        "ST-JEAN-DE-BASSEL-EGLIS": 24,
+        "SARREGUEMINES": 116,
+        "FÉNÉTRANGE (GENDARM.)": 33,
+        "BERTHELMING": 17,
+        "ST-LOUIS-57-INCLINÉ": 27,
+        "LUTZELBOURG": 50,
+        "STRASBOURG": 59,
+        "METZ": 62,
+        "PARIS-EST": 270
+    },
+    "LONGUYON": {
+        "LONGWY": 32,
+        "MONTMÉDY": 39,
+        "VEZIN-CARREFOUR": 23,
+        "THIONVILLE": 39,
+        "CHARLEVILLE-MEZIERES": 60
+    },
+    "LONGWY": {
+        "LONGUYON": 32,
+        "METZ": 55,
+        "LUXEMBOURG": 35,
+        "RODANGE": 16,
+        "NANCY": 172,
+        "JARNY": 86,
+        "SEDAN": 108,
+        "CHARLEVILLE-MEZIERES": 151,
+        "THIONVILLE": 55
+    },
+    "MONTMÉDY": {
+        "LONGUYON": 39
+    },
+    "VEZIN-CARREFOUR": {
+        "LONGUYON": 23
+    },
+    "MORHANGE": {
+        "SARREBOURG": 94,
+        "RÉMILLY": 48
+    },
+    "LOUDREFING": {
+        "SARREBOURG": 50,
+        "SARREBOURG-LP-MESSMER": 54
+    },
+    "RÉMILLY": {
+        "MORHANGE": 48
+    },
+    "ST-JEAN-DE-BASSEL-EGLIS": {
+        "SARREBOURG": 24,
+        "SARREBOURG-LP-MESSMER": 31
+    },
+    "NEUFCHÂTEAU": {
+        "NANCY": 62,
+        "TOULOUSE": 45,
+        "EPINAL": 109,
+        "VITTEL": 45,
+        "DIJON": 120
+    },
+    "FÉNÉTRANGE (GENDARM.)": {
+        "SARREBOURG-HÔPITAL": 42,
+        "SARREBOURG-LP-MESSMER": 30,
+        "SARREBOURG": 33
+    },
+    "SARREBOURG-HÔPITAL": {
+        "FÉNÉTRANGE (GENDARM.)": 42
+    },
+    "TOULOUSE": {
+        "NEUFCHÂTEAU": 45,
+        "NEUFCHATEAU-LP": 59,
+        "ALLAMPS-ESAT": 30,
+        "MAZAMET": 133,
+        "DAMIATTE": 253,
+        "AX-LES-THERMES": 145,
+        "ALBI-VILLE": 90,
+        "FOIX": 139,
+        "CHOUZÉ-SUR-LOIRE": 220,
+        "NARBONNE": 218,
+        "CASTELNAUDARY": 83,
+        "BAR-LE-DUC": 77,
+        "SAINT-PIERRE-D'AURILLAC": 244,
+        "LE PARCQ": 122,
+        "L'ISLE-JOURDAIN (GERS)": 72,
+        "LUNEVILLE": 68,
+        "NANCY": 23,
+        "RODEZ": 137,
+        "CARMAUX": 76,
+        "COLOMIERS": 22,
+        "CARCASSONNE": 74,
+        "CAPDENAC-GARE": 137,
+        "GAILLAC": 53,
+        "PAMIERS": 57,
+        "ENVEITG": 174,
+        "BRIVE-LA-GAILLARDE": 147,
+        "CAHORS": 74,
+        "MONTAUBAN": 43,
+        "AGEN": 81,
+        "ST-SULPICE (TARN)": 24,
+        "MURET": 19,
+        "BOUSSENS": 58,
+        "GOURDAN-POLIGNAN": 86,
+        "TARBES": 109,
+        "MANDUEL": 210,
+        "MONTPELLIER": 176,
+        "PERPIGNAN": 154,
+        "CERBÈRE": 199
+    },
+    "NEUFCHATEAU-LP": {
+        "TOULOUSE": 59,
+        "NANCY": 88
+    },
+    "ALLAMPS-ESAT": {
+        "TOULOUSE": 30
+    },
+    "CREUTZWALD": {
+        "THIONVILLE": 110
+    },
+    "THIONVILLE": {
+        "CREUTZWALD": 110,
+        "BOUZONVILLE": 67,
+        "KÉDANGE-SUR-CANNER": 22,
+        "HOMBOURG-BUDANGE": 26,
+        "PERL GARE DB": 39,
+        "AUDUN-LE-ROMAN": 40,
+        "LUXEMBOURG": 25,
+        "NANCY": 65,
+        "METZ": 27,
+        "LONGUYON": 39,
+        "LONGWY": 55,
+        "CHARLEVILLE-MEZIERES": 96
+    },
+    "LAVELINE-D-BRUY. MAIRIE": {
+        "SAINT-DIE": 64,
+        "EPINAL": 52
+    },
+    "EPINAL": {
+        "SAINT-DIE": 65,
+        "BRUYÈRES": 35,
+        "LAVELINE-D-BRUY. MAIRIE": 52,
+        "SAINT-LÉONARD": 94,
+        "LA HOUSSIÈRE": 81,
+        "ARCHES": 20,
+        "CHARMES": 40,
+        "NEUFCHÂTEAU": 109,
+        "MIRECOURT": 44,
+        "CONTREXÉVILLE": 60,
+        "NANCY": 79,
+        "REMIREMONT": 37,
+        "METZ": 120,
+        "MEROUX": 92
+    },
+    "BRUYÈRES": {
+        "EPINAL": 35,
+        "SAINT-DIE": 48,
+        "SAINT-LÉONARD": 39,
+        "LUNEVILLE": 80
+    },
+    "BOUZONVILLE": {
+        "THIONVILLE": 67
+    },
+    "KÉDANGE-SUR-CANNER": {
+        "THIONVILLE": 22
+    },
+    "HOMBOURG-BUDANGE": {
+        "THIONVILLE": 26
+    },
+    "SAINT-LÉONARD": {
+        "EPINAL": 94,
+        "BRUYÈRES": 39
+    },
+    "LA HOUSSIÈRE": {
+        "EPINAL": 81
+    },
+    "ARCHES": {
+        "SAINT-DIE": 85,
+        "EPINAL": 20
+    },
+    "PERL GARE DB": {
+        "THIONVILLE": 39
+    },
+    "SARRE-UNION": {
+        "SARREGUEMINES": 52,
+        "HERBITZHEIM": 23,
+        "KESKASTEL": 11,
+        "SAVERNE": 45,
+        "DIEMERINGEN": 20
+    },
+    "HERBITZHEIM": {
+        "SARRE-UNION": 23
+    },
+    "SARRALBE": {
+        "SARREGUEMINES": 33,
+        "SAVERNE": 64,
+        "DIEMERINGEN": 36
+    },
+    "BERTHELMING": {
+        "SARREBOURG": 17
+    },
+    "KESKASTEL": {
+        "SARRE-UNION": 11
+    },
+    "BAR-LE-DUC": {
+        "REVIGNY-SUR-ORNAIN": 21,
+        "EPERNAY": 155,
+        "SAINT-DIZIER": 35,
+        "CHALONS-EN-CHAMPAGNE": 110,
+        "METZ": 138,
+        "NANCY": 88,
+        "TOULOUSE": 77,
+        "LUNEVILLE": 98,
+        "PARIS-EST": 150,
+        "ÉTAMPES-SUR-MARNE": 95,
+        "STRASBOURG": 158
+    },
+    "REVIGNY-SUR-ORNAIN": {
+        "BAR-LE-DUC": 21,
+        "NANCY": 144,
+        "LUNEVILLE": 108
+    },
+    "JARNY": {
+        "PAGNY-SUR-MOSELLE": 45,
+        "METZ": 40,
+        "VERDUN": 45,
+        "LONGWY": 86,
+        "MONDELANGE": 64,
+        "NANCY": 51
+    },
+    "PAGNY-SUR-MOSELLE": {
+        "JARNY": 45
+    },
+    "FIGEAC": {
+        "GRAMAT": 52,
+        "SAINT-PIERRE-D'AURILLAC": 80,
+        "CAPDENAC-GARE": 20,
+        "GAILLAC": 160
+    },
+    "GRAMAT": {
+        "FIGEAC": 52
+    },
+    "MAZAMET": {
+        "TOULOUSE": 133,
+        "ST-SULPICE (TARN)": 103
+    },
+    "MURET": {
+        "DAMIATTE": 218,
+        "TARBES": 182,
+        "BOUSSENS": 93,
+        "GOURDAN-POLIGNAN": 138,
+        "TOULOUSE": 19
+    },
+    "DAMIATTE": {
+        "MURET": 218,
+        "TOULOUSE": 253,
+        "BAYONNE": 145,
+        "SAINT-PAUL-LES-DAX": 110,
+        "BEDOUS": 86,
+        "OLORON-SAINTE-MARIE": 52,
+        "BIDOS": 58,
+        "BOUSSENS": 183,
+        "TARBES": 93,
+        "BORDEAUX": 132
+    },
+    "AGEN": {
+        "CASTELSARRASIN": 56,
+        "BORDEAUX": 174,
+        "PERIGUEUX": 212,
+        "MONSEMPRON-LIBOS": 65,
+        "MONTAUBAN": 106,
+        "LIMOGES": 216,
+        "MARMANDE": 36,
+        "LANGON": 69,
+        "TOULOUSE": 81
+    },
+    "CASTELSARRASIN": {
+        "AGEN": 56
+    },
+    "LONGAGES": {
+        "ST-SULPICE-SUR-LÈZE": 11
+    },
+    "ST-SULPICE-SUR-LÈZE": {
+        "LONGAGES": 11
+    },
+    "GOURDAN-POLIGNAN": {
+        "LUCHON-RICHELIEU": 56,
+        "BAGNÈRES-DE-LUCHON": 50,
+        "BOUSSENS": 55,
+        "MURET": 138,
+        "TOULOUSE": 86
+    },
+    "LUCHON-RICHELIEU": {
+        "GOURDAN-POLIGNAN": 56
+    },
+    "AX-LES-THERMES": {
+        "TOULOUSE": 145,
+        "FOIX": 47,
+        "PAMIERS": 83,
+        "ENVEITG": 49
+    },
+    "FOIX": {
+        "AX-LES-THERMES": 47,
+        "PAMIERS": 33,
+        "TOULOUSE": 139,
+        "ENVEITG": 105
+    },
+    "PAMIERS": {
+        "AX-LES-THERMES": 83,
+        "FOIX": 33,
+        "TOULOUSE": 57
+    },
+    "BAGNÈRES-DE-LUCHON": {
+        "GOURDAN-POLIGNAN": 50
+    },
+    "SOUILLAC": {
+        "SAINT-DENIS-LÈS-MARTEL": 27
+    },
+    "ALBI-VILLE": {
+        "TOULOUSE": 90
+    },
+    "COMINES": {
+        "LILLE": 54
+    },
+    "WAMBRECHIES": {
+        "LILLE": 30
+    },
+    "ABBEVILLE": {
+        "BOULOGNE-SUR-MER": 104,
+        "RUE": 40,
+        "DREUIL-LÈS-AMIENS": 56,
+        "ALBERT": 80
+    },
+    "RUE": {
+        "ABBEVILLE": 40
+    },
+    "LENS": {
+        "LILLE": 80,
+        "ARRAS": 42,
+        "DOUAI": 31,
+        "HAZEBROUCK": 42,
+        "BETHUNE": 17
+    },
+    "AVESNES-SUR-HELPE": {
+        "HIRSON": 55
+    },
+    "ARRAS": {
+        "DOUAI": 40,
+        "DREUIL-LÈS-AMIENS": 104,
+        "ST POL SUR TERNOISE": 63,
+        "LENS": 42,
+        "LILLE": 99,
+        "ALBERT": 62,
+        "ARQUES": 123,
+        "HAZEBROUCK": 58,
+        "GRANDE-SYNTHE": 93,
+        "BETHUNE": 36
+    },
+    "DOUAI": {
+        "ARRAS": 40,
+        "LILLE": 118,
+        "ALBERT": 119,
+        "DREUIL-LÈS-AMIENS": 164,
+        "CAMBRAI": 34,
+        "VALENCIENNES": 38,
+        "LENS": 31,
+        "ST QUENTIN": 93
+    },
+    "HAZEBROUCK": {
+        "LILLE": 77,
+        "ARQUES": 109,
+        "GRANDE-SYNTHE": 36,
+        "ARRAS": 58,
+        "LENS": 42
+    },
+    "BUSIGNY": {
+        "ST QUENTIN": 60,
+        "AULNOYE-AYMERIES": 82,
+        "MAUBEUGE": 36
+    },
+    "COUTANCES": {
+        "SAINTE-MARGUERITE-D'ELLE": 54,
+        "GRANVILLE": 36,
+        "PONTORSON-MT-ST-MICHEL": 85,
+        "CAEN": 75
+    },
+    "SAINTE-MARGUERITE-D'ELLE": {
+        "COUTANCES": 54,
+        "GRANVILLE": 84
+    },
+    "PONTORSON-MT-ST-MICHEL": {
+        "COUTANCES": 85
+    },
+    "VIRE-CENTRE": {
+        "GRANVILLE": 75
+    },
+    "FLERS": {
+        "MOULINS-SUR-ORNE": 53
+    },
+    "BAGNOLES- ORNE EGL.MAD.": {
+        "BRIOUZE": 40,
+        "MOULINS-SUR-ORNE": 60
+    },
+    "BRIOUZE": {
+        "BAGNOLES- ORNE EGL.MAD.": 40
+    },
+    "ALENCON": {
+        "LE CHÂTEAU-D'ALMENÊCHES": 34,
+        "CAEN": 71,
+        "MANS (LE )": 53,
+        "JOUE-LES-TOURS": 145,
+        "CHÂTEAU-DU-LOIR": 106
+    },
+    "LE CHÂTEAU-D'ALMENÊCHES": {
+        "ALENCON": 34,
+        "AIGLE (L')": 58
+    },
+    "AIGLE (L')": {
+        "LE CHÂTEAU-D'ALMENÊCHES": 58,
+        "DREUX": 79
+    },
+    "LISIEUX": {
+        "DEAUVILLE": 50,
+        "LE VIEIL-ÉVREUX": 52,
+        "CAEN": 33
+    },
+    "DIVES-SUR-MER": {
+        "DEAUVILLE": 35
+    },
+    "LE VIEIL-ÉVREUX": {
+        "SERQUIGNY": 50,
+        "MANTES-LA-VILLE": 84,
+        "PARIS": 69,
+        "LISIEUX": 52
+    },
+    "SERQUIGNY": {
+        "LE VIEIL-ÉVREUX": 50,
+        "PARIS": 105
+    },
+    "VILLEDIEU-LES-POÊLES": {
+        "LE MONT ST MICHEL": 45
+    },
+    "LE MONT ST MICHEL": {
+        "VILLEDIEU-LES-POÊLES": 45
+    },
+    "RENNES": {
+        "GRANVILLE": 110,
+        "CAEN": 170,
+        "PLEINE-FOUGÈRES": 70,
+        "VITRE": 60,
+        "SAINT-BRIEUC": 115,
+        "MONTAUBAN-DE-BRETAGNE": 32,
+        "MESSAC": 75,
+        "NANTES": 100,
+        "VANNES": 150,
+        "ENSUÈS-LA-REDONNE": 105,
+        "RETIERS": 42,
+        "JANZÉ": 36,
+        "CHÂTENOIS": 33,
+        "MONTREUIL-SUR-ILLE": 30,
+        "SAINT-MALO": 55,
+        "BREST": 139,
+        "QUIMPERLE": 141,
+        "LAVAL-DE-CÈRE": 55,
+        "MANS (LE )": 103,
+        "LE CROISIC": 222
+    },
+    "BRÉAUTÉ": {
+        "FECAMP": 30
+    },
+    "FECAMP": {
+        "BRÉAUTÉ": 30,
+        "HAVRE (LE )": 46
+    },
+    "MANTES-LA-VILLE": {
+        "ROUEN": 125,
+        "LE VIEIL-ÉVREUX": 84,
+        "VERNON": 17,
+        "BUEIL": 15
+    },
+    "PONT-AUDEMER": {
+        "ROUEN-GARE-ROUTIÈRE": 65,
+        "BOURG-ACHARD CHAMP DE F": 35
+    },
+    "ROUEN-GARE-ROUTIÈRE": {
+        "PONT-AUDEMER": 65,
+        "ROUTOT-PLACE-DE-MAIRIE": 50
+    },
+    "ROUTOT-PLACE-DE-MAIRIE": {
+        "ROUEN-GARE-ROUTIÈRE": 50
+    },
+    "BOURG-ACHARD CHAMP DE F": {
+        "PONT-AUDEMER": 35
+    },
+    "NANTES": {
+        "SAINT-GILLES-CROIX-DE-VIE": 104,
+        "CHOLET": 85,
+        "RENNES": 100,
+        "MANS (LE )": 94,
+        "ANGERS": 43,
+        "LAVAL-DE-CÈRE": 101,
+        "SAINT-NAZAIRE": 51,
+        "LE CROISIC": 74,
+        "ENSUÈS-LA-REDONNE": 58,
+        "QUIMPERLE": 174,
+        "BREST": 203,
+        "SAVENAY": 34,
+        "SAUMUR": 86,
+        "ROCHE-SUR-YON (LA )": 55,
+        "SABLES-D'OLONNE (LES)": 87,
+        "SAINTE-PAZANNE": 32,
+        "PORNICHET": 60,
+        "ANCENIS": 28,
+        "SUCÉ-SUR-ERDRE": 27,
+        "NORT-SUR-ERDRE": 40,
+        "CHATEAUBRIANT": 67,
+        "CLISSON": 29,
+        "ROUEN": 170,
+        "JOUE-LES-TOURS": 93
+    },
+    "SAINT-GILLES-CROIX-DE-VIE": {
+        "NANTES": 104
+    },
+    "CHOLET": {
+        "NANTES": 85,
+        "CLISSON": 60,
+        "ANGERS": 100,
+        "SAUMUR": 85
+    },
+    "CLISSON": {
+        "CHOLET": 60,
+        "NANTES": 29
+    },
+    "ALBERT": {
+        "DREUIL-LÈS-AMIENS": 46,
+        "DOUAI": 119,
+        "ARRAS": 62,
+        "ABBEVILLE": 80
+    },
+    "BEAUVAIS": {
+        "CREIL": 70,
+        "PERSAN": 90,
+        "PARIS": 73,
+        "ABANCOURT": 48
+    },
+    "CREIL": {
+        "BEAUVAIS": 70,
+        "CHIVRES-EN-LAONNOIS": 171,
+        "LAON-GARE-ROUTIÈRE-POMA": 200,
+        "ST-JUST-SNCF": 56,
+        "DREUIL-LÈS-AMIENS": 95,
+        "PARIS": 21,
+        "ABANCOURT": 103,
+        "MARGNY-LÈS-COMPIÈGNE": 37,
+        "ST QUENTIN": 104
+    },
+    "LAON-GARE-ROUTIÈRE-POMA": {
+        "HIRSON": 80,
+        "TERGNIER": 67,
+        "CREIL": 200
+    },
+    "RIBÉCOURT-DRESLINCOURT": {
+        "MARGNY-LÈS-COMPIÈGNE": 28
+    },
+    "TERGNIER": {
+        "MARGNY-LÈS-COMPIÈGNE": 94,
+        "LAON-GARE-ROUTIÈRE-POMA": 67,
+        "DREUIL-LÈS-AMIENS": 159,
+        "ST QUENTIN": 28,
+        "AULNOYE-AYMERIES": 71,
+        "PARIS": 88,
+        "CHIVRES-EN-LAONNOIS": 26
+    },
+    "CHATELLERAULT": {
+        "POITIERS": 44
+    },
+    "POITIERS": {
+        "CHATELLERAULT": 44,
+        "LIMOGES": 205,
+        "ANGOULEME": 158,
+        "JOUE-LES-TOURS": 74,
+        "BEAUVOIR-SUR-NIORT": 59,
+        "ROCHELLE (LA )": 100,
+        "LE DORAT": 60
+    },
+    "MAUZENS-ET-MIREMONT": {
+        "BEAUVOIR-SUR-NIORT": 40
+    },
+    "BEAUVOIR-SUR-NIORT": {
+        "MAUZENS-ET-MIREMONT": 40,
+        "PRISSÉ-LA-CHARRIÈRE": 49,
+        "SAINTES": 95,
+        "ROYAN": 139,
+        "POITIERS": 59,
+        "ROCHELLE (LA )": 44
+    },
+    "PRISSÉ-LA-CHARRIÈRE": {
+        "BEAUVOIR-SUR-NIORT": 49
+    },
+    "BRESSUIRE": {
+        "SAUMUR": 87,
+        "THOUARS": 37,
+        "JOUE-LES-TOURS": 103
+    },
+    "SAUMUR": {
+        "BRESSUIRE": 87,
+        "ROCHE-SUR-YON (LA )": 177,
+        "ANGERS": 95,
+        "NANTES": 86,
+        "CHOLET": 85,
+        "SABLES-D'OLONNE (LES)": 158,
+        "JOUE-LES-TOURS": 51,
+        "THOUARS": 30
+    },
+    "THOUARS": {
+        "BRESSUIRE": 37,
+        "JOUE-LES-TOURS": 78,
+        "ANGERS": 68,
+        "SAUMUR": 30
+    },
+    "ROCHE-SUR-YON (LA )": {
+        "SAUMUR": 177,
+        "ROCHELLE (LA )": 120,
+        "NANTES": 55,
+        "CHANTONNAY": 31,
+        "JOUE-LES-TOURS": 199
+    },
+    "ALIXAN": {
+        "GRENOBLE": 60,
+        "VEYNES": 185,
+        "LUC-EN-DIOIS": 125
+    },
+    "VALENCE": {
+        "GRENOBLE": 100,
+        "SAINT-DIE": 75,
+        "VEYNES": 165,
+        "LUC-EN-DIOIS": 105,
+        "SAINT-ETIENNE": 110,
+        "PRIVAS": 50
+    },
+    "SAINT-ANDRÉ-LE-GAZ": {
+        "LYON": 56,
+        "CHAMBERY": 71,
+        "GRENOBLE": 62
+    },
+    "ROANNE": {
+        "LYON": 89,
+        "SAINT-ETIENNE": 73
+    },
+    "GRANDRIS-CENTRE": {
+        "LOZANNE": 42
+    },
+    "LAMURE-SUR-AZERGUES": {
+        "LOZANNE": 46
+    },
+    "POULE-MAIRIE": {
+        "LOZANNE": 60
+    },
+    "LÉGNY": {
+        "LOZANNE": 23
+    },
+    "LUC-EN-DIOIS": {
+        "VALENCE": 105,
+        "ALIXAN": 125
+    },
+    "ANNONAY": {
+        "GRENOBLE": 170,
+        "SAINT-MARTIN-D'HÈRES": 160
+    },
+    "PRIVAS": {
+        "VALENCE": 50,
+        "GRENOBLE": 130,
+        "SAINT-MARTIN-D'HÈRES": 145
+    },
+    "MONTELIMAR": {
+        "GRENOBLE": 127,
+        "SAINT-MARTIN-D'HÈRES": 120
+    },
+    "MOÛTIERS": {
+        "GRENOBLE": 105,
+        "SAINT-PIERRE-D'ALBIGNY": 50,
+        "ALBERTVILLE": 45,
+        "BOURG-SAINT-MAURICE": 37,
+        "CHAMBERY": 80
+    },
+    "BONNEVILLE": {
+        "LYON": 145,
+        "CHAMBERY": 130
+    },
+    "AUBENAS": {
+        "GRENOBLE": 198,
+        "SAINT-MARTIN-D'HÈRES": 185
+    },
+    "OYONNAX": {
+        "LYON": 130,
+        "BOURG-EN-BRESSE": 53
+    },
+    "MOREZ": {
+        "LYON": 195
+    },
+    "SAINT-MARTIN-D'HÈRES": {
+        "AUBENAS": 185,
+        "MONTELIMAR": 120,
+        "PRIVAS": 145,
+        "ANNONAY": 160
+    },
+    "LE PONT-DE-BEAUVOISIN": {
+        "CHAMBERY": 48
+    },
+    "SAINT-BRIEUC": {
+        "DINAN": 60,
+        "RENNES": 115,
+        "LANNION": 65
+    },
+    "LAMBALLE": {
+        "DINAN": 73
+    },
+    "FRANOIS": {
+        "SAINT-VIT": 14
+    },
+    "SAINT-VIT": {
+        "FRANOIS": 14
+    },
+    "TILLENAY": {
+        "VILLERS-LES-POTS": 10
+    },
+    "VILLERS-LES-POTS": {
+        "TILLENAY": 10
+    },
+    "NEUILLY-LÈS-DIJON": {
+        "DIJON": 25
+    },
+    "BELLEGARDE-SUR-VALSERINE": {
+        "SAINT-GERVAIS-LES-BAINS": 135,
+        "ÉVIAN-LES-BAINS": 115,
+        "CHAMONIX-MONT-BLANC": 185,
+        "ANNEMASSE": 71,
+        "GENÈVE": 28,
+        "LA ROCHE-SUR-FORON": 65
+    },
+    "AMBERIEU-EN-BUGEY": {
+        "SAINT-RAMBERT-EN-BUGEY": 15,
+        "VIRIEU-LE-GRAND": 52,
+        "LYON": 41,
+        "BOURG-EN-BRESSE": 23,
+        "MACON": 54,
+        "CHAMBERY": 73,
+        "SAINT-ETIENNE": 97,
+        "GIVORS": 64
+    },
+    "SAINT-RAMBERT-EN-BUGEY": {
+        "AMBERIEU-EN-BUGEY": 15
+    },
+    "VIRIEU-LE-GRAND": {
+        "AMBERIEU-EN-BUGEY": 52
+    },
+    "BOËN": {
+        "NOIRÉTABLE": 26,
+        "SAINT-ETIENNE": 53,
+        "MONTBRISON": 18
+    },
+    "NOIRÉTABLE": {
+        "BOËN": 26,
+        "MONTBRISON": 44,
+        "SAINT-ETIENNE": 108
+    },
+    "MONTBRISON": {
+        "NOIRÉTABLE": 44,
+        "BOËN": 18,
+        "SAINT-ETIENNE": 40
+    },
+    "LA TOUR-DU-PIN": {
+        "CHAMBERY": 86,
+        "RIVESALTES": 55
+    },
+    "CLELLES": {
+        "GAP": 80,
+        "GRENOBLE": 71,
+        "VEYNES": 56
+    },
+    "VIF": {
+        "GRENOBLE": 51
+    },
+    "SAIN-BEL": {
+        "LYON-ST-PAUL-LA-FEUILÉE": 60,
+        "LYON": 42
+    },
+    "LYON-ST-PAUL-LA-FEUILÉE": {
+        "SAIN-BEL": 60
+    },
+    "VIENNE-GARE-ROUTIÈRE": {
+        "LYON": 53
+    },
+    "ARGENTINE": {
+        "SAINT-PIERRE-D'ALBIGNY": 28
+    },
+    "SAINT-PIERRE-D'ALBIGNY": {
+        "ARGENTINE": 28,
+        "MOÛTIERS": 50,
+        "ÉPIERRE": 36,
+        "SAINT-JEAN-DE-MAURIENNE": 70
+    },
+    "SAINT-PRIEST-TAURION": {
+        "ST-PIERRE-DE-CHANDIEU-R": 21
+    },
+    "ST-PIERRE-DE-CHANDIEU-R": {
+        "SAINT-PRIEST-TAURION": 21
+    },
+    "VILLEFRANCHE-SUR-SAONE": {
+        "LYON": 36,
+        "VIENNE": 74
+    },
+    "RIVESALTES": {
+        "LA TOUR-DU-PIN": 55,
+        "GRENOBLE": 30,
+        "CHAMBERY": 90
+    },
+    "ÉPIERRE": {
+        "CHAMBERY": 82,
+        "MONTMÉLIAN": 52,
+        "SAINT-PIERRE-D'ALBIGNY": 36
+    },
+    "CULOZ": {
+        "CHAMBERY": 65
+    },
+    "FEURS": {
+        "SAINT-ETIENNE": 60
+    },
+    "ALBENS": {
+        "ANNECY": 45
+    },
+    "RUMILLY": {
+        "ANNECY": 25
+    },
+    "SÉRÉZIN-DU-RHÔNE": {
+        "TERNAY-BARBIÈRES": 13,
+        "COMMUNAY": 15
+    },
+    "TERNAY-BARBIÈRES": {
+        "SÉRÉZIN-DU-RHÔNE": 13
+    },
+    "COMMUNAY": {
+        "SÉRÉZIN-DU-RHÔNE": 15
+    },
+    "MONTMÉLIAN": {
+        "ÉPIERRE": 52
+    },
+    "SAINT-JEAN-DE-MAURIENNE": {
+        "SAINT-PIERRE-D'ALBIGNY": 70,
+        "AITON": 58
+    },
+    "AITON": {
+        "SAINT-JEAN-DE-MAURIENNE": 58
+    },
+    "CHÂTEAU-CHINON(CAMPAGNE)": {
+        "JOUE-LES-TOURS": 82
+    },
+    "CHINON-LYCÉE-RABELAIS": {
+        "JOUE-LES-TOURS": 75
+    },
+    "ST CHRISTOPHE / NAIS C.": {
+        "JOUE-LES-TOURS": 60
+    },
+    "CHÂTEAU-DU-LOIR": {
+        "JOUE-LES-TOURS": 75,
+        "MANS (LE )": 50,
+        "ALENCON": 106
+    },
+    "DROUÉ (CENTRE)": {
+        "SAINT-PELLERIN": 10,
+        "COURTALAIN-CENTRE": 10,
+        "MARCHEZAIS": 36,
+        "CHARTRES": 92
+    },
+    "SAINT-PELLERIN": {
+        "DROUÉ (CENTRE)": 10,
+        "CHARTRES": 90
+    },
+    "COURTALAIN-CENTRE": {
+        "DROUÉ (CENTRE)": 10
+    },
+    "CHARTRES-GARE-ROUTIÈRE": {
+        "MARCHEZAIS": 55,
+        "JOUE-LES-TOURS": 159,
+        "VILLIERS-SUR-LOIR": 84,
+        "CHATEAUDUN": 56
+    },
+    "MARCHEZAIS": {
+        "CHARTRES-GARE-ROUTIÈRE": 55,
+        "DROUÉ (CENTRE)": 36,
+        "CHARTRES": 50
+    },
+    "VILLIERS-SUR-LOIR": {
+        "MONDOUBLEAU-RUE-LEROY": 60,
+        "CHARTRES-GARE-ROUTIÈRE": 84,
+        "CHATEAUDUN": 55,
+        "JOUE-LES-TOURS": 65,
+        "PARIS": 149
+    },
+    "MONDOUBLEAU-RUE-LEROY": {
+        "VILLIERS-SUR-LOIR": 60
+    },
+    "AUBIGNY-SUR-NERE-MAIL": {
+        "GIEN": 44
+    },
+    "GIEN": {
+        "AUBIGNY-SUR-NERE-MAIL": 44,
+        "MONTARGIS-OT": 49
+    },
+    "MONTARGIS-OT": {
+        "GIEN": 49
+    },
+    "COSNE-COURS-SUR-LOIRE": {
+        "SANCERRE-PORTE-CESAR": 27,
+        "NEVERS-LE-BANLAY": 118,
+        "FLEURY-LES-AUBRAIS": 135,
+        "NEVERS": 48,
+        "DECIZE": 89
+    },
+    "SANCERRE-PORTE-CESAR": {
+        "COSNE-COURS-SUR-LOIRE": 27
+    },
+    "BOURGES-GARE-ROUTIÈRE": {
+        "TOURNAN-EN-BRIE": 65,
+        "ORVAL": 76
+    },
+    "TOURNAN-EN-BRIE": {
+        "BOURGES-GARE-ROUTIÈRE": 65
+    },
+    "CHATEAUROUX": {
+        "BOURGES": 106,
+        "ISSOUDUN-JARDIN": 40,
+        "POITIERS-GARE-ROUTIÈRE": 135,
+        "ARGENTON-SUR-CREUSE": 45,
+        "ÉGUZON-CHANTÔME": 80,
+        "ISSOUDUN": 36,
+        "BUZANÇAIS": 30,
+        "JOUE-LES-TOURS": 150,
+        "CHATILLON-MAIL": 90,
+        "LOCHES": 101,
+        "VIERZON": 90,
+        "ROUEN": 95,
+        "LIMOGES": 86
+    },
+    "ISSOUDUN": {
+        "BOURGES": 71,
+        "VIERZON": 56,
+        "CHATEAUROUX": 36
+    },
+    "ISSOUDUN-JARDIN": {
+        "CHATEAUROUX": 40
+    },
+    "POITIERS-GARE-ROUTIÈRE": {
+        "CHATEAUROUX": 135,
+        "LE-BLANC-PL-DU-BATEAU": 68
+    },
+    "LE-BLANC-PL-DU-BATEAU": {
+        "POITIERS-GARE-ROUTIÈRE": 68
+    },
+    "NOUAN-LE-FUZELIER": {
+        "ROMORANTIN-BA-G.R.": 55
+    },
+    "ROMORANTIN-BA-G.R.": {
+        "NOUAN-LE-FUZELIER": 55,
+        "CHAUMONT-SUR-THARONNE": 31,
+        "LAMOTTE-BEUVRON": 40,
+        "THÉSÉE": 60,
+        "ST-AIGNAN-LEP": 55,
+        "ST-AIGNAN-PL-WILSON": 53,
+        "VIERZON": 43,
+        "VIERZON-MÉDIATHÈQUE": 48
+    },
+    "CHAUMONT-SUR-THARONNE": {
+        "ROMORANTIN-BA-G.R.": 31
+    },
+    "LAMOTTE-BEUVRON": {
+        "ROMORANTIN-BA-G.R.": 40,
+        "ROMORANTIN-LYCÉE-DE-F": 35
+    },
+    "ROMORANTIN-LYCÉE-DE-F": {
+        "LAMOTTE-BEUVRON": 35
+    },
+    "CHÂTEAUROUX-LY-B-PASCAL": {
+        "ÉGUZON-CHANTÔME": 60,
+        "ARGENTON-SUR-CREUSE": 60,
+        "BUZANÇAIS": 59
+    },
+    "ÉGUZON-CHANTÔME": {
+        "CHÂTEAUROUX-LY-B-PASCAL": 60,
+        "CHATEAUROUX": 80
+    },
+    "ARGENTON-SUR-CREUSE": {
+        "CHATEAUROUX": 45,
+        "CHÂTEAUROUX-LY-B-PASCAL": 60,
+        "CHÂTEAUROUX-LYCÉE-AGRIC": 55,
+        "VIERZON": 130,
+        "ROUEN": 117,
+        "LIMOGES": 74
+    },
+    "CHÂTEAUROUX-LYCÉE-AGRIC": {
+        "ARGENTON-SUR-CREUSE": 55
+    },
+    "THÉSÉE": {
+        "ROMORANTIN-BA-G.R.": 60
+    },
+    "ST-AIGNAN-LEP": {
+        "ROMORANTIN-BA-G.R.": 55
+    },
+    "ST-AIGNAN-PL-WILSON": {
+        "ROMORANTIN-BA-G.R.": 53
+    },
+    "LOCHES": {
+        "JOUE-LES-TOURS": 58,
+        "CLION": 40,
+        "CHATEAUROUX": 101,
+        "MONTBAZON": 65,
+        "CORMERY": 29,
+        "TOURS LYCEE GRANDMONT": 55,
+        "ESVRES": 45,
+        "TRUYES-PL-DU-SOUVENIR": 40
+    },
+    "BUZANÇAIS": {
+        "CHATEAUROUX": 30,
+        "CHÂTEAUROUX-LY-B-PASCAL": 59
+    },
+    "CHATILLON-MAIL": {
+        "CHÂTEAUROUX-CHARMILLES": 100,
+        "CHATEAUROUX": 90,
+        "CHÂTEAUROUX-L-GIRAUDOUX": 93,
+        "JOUE-LES-TOURS": 95
+    },
+    "CHÂTEAUROUX-CHARMILLES": {
+        "CHATILLON-MAIL": 100
+    },
+    "CLION": {
+        "LOCHES": 40
+    },
+    "CORMERY": {
+        "JOUE-LES-TOURS": 43,
+        "CHAMBOURG-CHOPIN": 25,
+        "LOCHES": 29
+    },
+    "MONTBAZON": {
+        "LOCHES": 65
+    },
+    "CHAMBOURG-CHOPIN": {
+        "CORMERY": 25
+    },
+    "LOCHES-LYCEE-ST-DENIS": {
+        "TRUYES-ST-BLAISE": 40
+    },
+    "TRUYES-ST-BLAISE": {
+        "LOCHES-LYCEE-ST-DENIS": 40
+    },
+    "TOURS LYCEE GRANDMONT": {
+        "LOCHES": 55
+    },
+    "ESVRES": {
+        "LOCHES": 45,
+        "JOUE-LES-TOURS": 20
+    },
+    "REIGNAC-BOURG-DU-FAU": {
+        "JOUE-LES-TOURS": 74
+    },
+    "TRUYES-PL-DU-SOUVENIR": {
+        "LOCHES": 40,
+        "LOCHES-LEP": 25
+    },
+    "VEIGNÉ": {
+        "JOUE-LES-TOURS": 15
+    },
+    "LOCHES-LEP": {
+        "TRUYES-PL-DU-SOUVENIR": 25,
+        "JOUE-LES-TOURS": 80
+    },
+    "CHÂTEAUROUX-L-GIRAUDOUX": {
+        "CHATILLON-MAIL": 93
+    },
+    "VIERZON-MÉDIATHÈQUE": {
+        "ROMORANTIN-BA-G.R.": 48
+    },
+    "LIMERAY": {
+        "BLOIS": 35
+    },
+    "CHATEAUDUN": {
+        "DOURDAN": 90,
+        "VILLIERS-SUR-LOIR": 55,
+        "CHARTRES-GARE-ROUTIÈRE": 56,
+        "JOUE-LES-TOURS": 111,
+        "PARIS": 97,
+        "VOVES": 21
+    },
+    "DOURDAN": {
+        "CHATEAUDUN": 90,
+        "CHÂTEAUDUN-LEP-PAULSEN": 102
+    },
+    "CHÂTEAUDUN-LEP-PAULSEN": {
+        "DOURDAN": 102
+    },
+    "CHÂTEAU-RENAULT": {
+        "VENDÔME-VILLIERS-S-LOIR": 47
+    },
+    "VENDÔME-VILLIERS-S-LOIR": {
+        "CHÂTEAU-RENAULT": 47
+    },
+    "LUNEVILLE": {
+        "RAMBERVILLERS (11 NOV)": 71,
+        "MOYEN": 41,
+        "RAMBERVILLERS": 52,
+        "BRUYÈRES": 80,
+        "NANCY": 71,
+        "SAINT-DIE": 41,
+        "BAR-LE-DUC": 98,
+        "REVIGNY-SUR-ORNAIN": 108,
+        "EPERNAY": 165,
+        "TOULOUSE": 68,
+        "STRASBOURG": 67,
+        "METZ": 73
+    },
+    "RAMBERVILLERS (11 NOV)": {
+        "LUNEVILLE": 71,
+        "LUNEVILLE-LP": 72
+    },
+    "MOYEN": {
+        "LUNEVILLE": 41
+    },
+    "LUNEVILLE-LP": {
+        "RAMBERVILLERS (11 NOV)": 72
+    },
+    "RAMBERVILLERS": {
+        "LUNEVILLE": 52
+    },
+    "REMIREMONT": {
+        "GÉRARDMER LA MAUSELAINE": 45,
+        "BUSSANG": 54,
+        "BRESSE-CLAUDEL (LA)": 57,
+        "LA-BRESSE (PL CHAMPTEL)": 63,
+        "LA BRESSE LE LISPACH": 83,
+        "NANCY": 160,
+        "EPINAL": 37,
+        "METZ": 135
+    },
+    "GÉRARDMER LA MAUSELAINE": {
+        "REMIREMONT": 45
+    },
+    "BUSSANG": {
+        "REMIREMONT": 54
+    },
+    "BRESSE-CLAUDEL (LA)": {
+        "REMIREMONT": 57
+    },
+    "LA-BRESSE (PL CHAMPTEL)": {
+        "REMIREMONT": 63
+    },
+    "LA BRESSE LE LISPACH": {
+        "REMIREMONT": 83
+    },
+    "AUDUN-LE-ROMAN": {
+        "THIONVILLE": 40
+    },
+    "ST-LOUIS-57-INCLINÉ": {
+        "SARREBOURG": 27
+    },
+    "MARLE": {
+        "LUGNY": 5
+    },
+    "LUGNY": {
+        "MARLE": 5
+    },
+    "BARENTONÂ CEL": {
+        "VERNEUIL-SUR-SERRE": 5
+    },
+    "VERNEUIL-SUR-SERRE": {
+        "BARENTONÂ CEL": 5,
+        "BARENTON-SUR-SERRE": 5
+    },
+    "BARENTON-SUR-SERRE": {
+        "VERNEUIL-SUR-SERRE": 5
+    },
+    "WOERTH RHEIN": {
+        "STRASBOURG": 66,
+        "LAUTERBOURG": 15
+    },
+    "NEUSTADT (WEINSTR) HBF": {
+        "WISSEMBOURG": 62
+    },
+    "WINDEN PFALZ": {
+        "WISSEMBOURG": 16
+    },
+    "LANDAU-PFALZ-HBF": {
+        "WISSEMBOURG": 28
+    },
+    "PLEINE-FOUGÈRES": {
+        "RENNES": 70
+    },
+    "VENTIMIGLIA-STAZIONE": {
+        "NICE": 53,
+        "GRASSE": 127,
+        "CANNES": 101,
+        "LES ARCS": 138,
+        "MENTON": 16,
+        "MONACO-MONTE-CARLO": 30
+    },
+    "GRASSE": {
+        "NICE": 71,
+        "VENTIMIGLIA-STAZIONE": 127,
+        "MENTON": 113,
+        "MONACO-MONTE-CARLO": 99,
+        "CANNES": 50,
+        "ANTIBES": 41
+    },
+    "MENTON": {
+        "GRASSE": 113,
+        "NICE": 39,
+        "CANNES": 69,
+        "LES ARCS": 118,
+        "VENTIMIGLIA-STAZIONE": 16,
+        "MARSEILLE": 205
+    },
+    "CANNES": {
+        "VENTIMIGLIA-STAZIONE": 101,
+        "MENTON": 69,
+        "MONACO-MONTE-CARLO": 70,
+        "GRASSE": 50,
+        "LES ARCS": 55,
+        "SAINT-RAPHAEL": 38
+    },
+    "MONACO-MONTE-CARLO": {
+        "CANNES": 70,
+        "GRASSE": 99,
+        "NICE": 24,
+        "VENTIMIGLIA-STAZIONE": 30
+    },
+    "SAARBRÜCKEN /SARREBRUCK": {
+        "STRASBOURG": 102,
+        "SARREGUEMINES": 29,
+        "FORBACH": 10,
+        "METZ": 60,
+        "MOMMENHEIM": 154,
+        "BÉNING-LÈS-SAINT-AVOLD": 53,
+        "DIEMERINGEN": 75
+    },
+    "TRIER-HBF (TRÈVES)": {
+        "METZ": 96
+    },
+    "LUXEMBOURG": {
+        "LONGWY": 35,
+        "RODANGE": 27,
+        "NANCY": 92,
+        "THIONVILLE": 25,
+        "METZ": 49,
+        "BETTEMBOURG": 20
+    },
+    "RODANGE": {
+        "LUXEMBOURG": 27,
+        "LONGWY": 16
+    },
+    "PERPIGNAN": {
+        "CHOUZÉ-SUR-LOIRE": 59,
+        "CERBÈRE": 107,
+        "VILLEFRANCHE-DE-CONFLENT": 64,
+        "NARBONNE": 46,
+        "MONTPELLIER": 130,
+        "TOULOUSE": 154,
+        "CARCASSONNE": 91,
+        "MANDUEL": 160,
+        "AVIGNON": 196
+    },
+    "CHOUZÉ-SUR-LOIRE": {
+        "PERPIGNAN": 59,
+        "AVIGNON": 259,
+        "NARBONNE": 102,
+        "MANDUEL": 209,
+        "TOULOUSE": 220,
+        "MONTPELLIER": 171,
+        "JOUE-LES-TOURS": 77
+    },
+    "NARBONNE": {
+        "CHOUZÉ-SUR-LOIRE": 102,
+        "TOULOUSE": 218,
+        "CASTELNAUDARY": 134,
+        "PERPIGNAN": 46,
+        "LUNEL": 100,
+        "MONTPELLIER": 71,
+        "CERBÈRE": 87,
+        "CARCASSONNE": 36,
+        "AVIGNON": 144,
+        "MANDUEL": 98,
+        "MARSEILLE": 188
+    },
+    "MONTPELLIER": {
+        "CHOUZÉ-SUR-LOIRE": 171,
+        "NARBONNE": 71,
+        "PERPIGNAN": 130,
+        "TOULOUSE": 176,
+        "MANDUEL": 43,
+        "AVIGNON": 76,
+        "SETE": 23,
+        "LUNEL": 20,
+        "MARSEILLE": 119,
+        "CERBÈRE": 154,
+        "SAINT-CHÉLY-D'APCHER": 297
+    },
+    "OFFENBURG": {
+        "STRASBOURG": 32,
+        "KEHL": 22
+    },
+    "KEHL": {
+        "OFFENBURG": 22,
+        "STRASBOURG": 25
+    },
+    "MULLHEIM-BADEN-BF": {
+        "MULHOUSE": 23
+    },
+    "FREIBURG-BREISGAU": {
+        "MULHOUSE": 45
+    },
+    "BETTEMBOURG": {
+        "NANCY": 79,
+        "METZ": 36,
+        "LUXEMBOURG": 20
+    },
+    "MUHLBACH-SUR-MUNSTER": {
+        "HERRLISHEIM-PRÈS-COLMAR": 36
+    },
+    "THANN-SAINT-JACQUES": {
+        "ODEREN": 28,
+        "FELLERING": 19,
+        "MULHOUSE": 32
+    },
+    "MUTZIG-PASSAGE-A-NIVEAU": {
+        "MOLSHEIM": 8
+    },
+    "ERSTEIN": {
+        "STRASBOURG": 26,
+        "MULHOUSE": 53
+    },
+    "BAYONNE": {
+        "DAMIATTE": 145,
+        "PUYOÔ": 70,
+        "SAINT-JEAN-PIED-DE-PORT": 81,
+        "CAMBO-LES-BAINS": 38,
+        "MORCENX": 105,
+        "SAINT-PAUL-LES-DAX": 44,
+        "HENDAYE": 37,
+        "TARBES": 145
+    },
+    "PUYOÔ": {
+        "BAYONNE": 70
+    },
+    "MONT-DE-MARSAN": {
+        "MORCENX": 45,
+        "BORDEAUX": 185
+    },
+    "MORCENX": {
+        "MONT-DE-MARSAN": 45,
+        "BAYONNE": 105,
+        "BORDEAUX": 60
+    },
+    "BORDEAUX": {
+        "MONT-DE-MARSAN": 185,
+        "LESPARRE-MÉDOC": 157,
+        "LE-VERDON": 200,
+        "SAINT-PAUL-LES-DAX": 170,
+        "LANGON": 87,
+        "AGEN": 174,
+        "SAINTES": 99,
+        "LA-ROCHELLE-PORTE-DAUPHINE": 164,
+        "ROCHELLE (LA )": 162,
+        "ANGOULEME": 89,
+        "LIBOURNE": 35,
+        "COUTRAS": 47,
+        "SAINT-YZAN-DE-SOUDIAC": 43,
+        "BRIVE-LA-GAILLARDE": 143,
+        "PERIGUEUX": 82,
+        "LE LARDIN-SAINT-LAZARE": 121,
+        "TULLE": 193,
+        "LIMOGES": 145,
+        "BERGERAC": 76,
+        "SARLAT-LA-CANEDA": 144,
+        "LE BUISSON-DE-CADOUIN": 110,
+        "MORCENX": 60,
+        "PAUILLAC": 59,
+        "MACAU": 41,
+        "ARCACHON": 52,
+        "BIGANOS": 29,
+        "HENDAYE": 178,
+        "MARMANDE": 67,
+        "DAMIATTE": 132,
+        "TARBES": 188,
+        "LOURDES": 174,
+        "MONTLUCON": 259,
+        "GUERET": 208,
+        "USSEL": 262
+    },
+    "LESPARRE-MÉDOC": {
+        "PAUILLAC": 25,
+        "BORDEAUX": 157,
+        "PESSAC": 72
+    },
+    "PAUILLAC": {
+        "LESPARRE-MÉDOC": 25,
+        "BORDEAUX": 59
+    },
+    "LE-VERDON": {
+        "BORDEAUX": 200
+    },
+    "SAINT-PAUL-LES-DAX": {
+        "LOURDES": 170,
+        "DAMIATTE": 110,
+        "TARBES": 205,
+        "HENDAYE": 140,
+        "BORDEAUX": 170,
+        "BAYONNE": 44
+    },
+    "LOURDES": {
+        "SAINT-PAUL-LES-DAX": 170,
+        "TARBES": 35,
+        "BORDEAUX": 174
+    },
+    "TARBES": {
+        "SAINT-PAUL-LES-DAX": 205,
+        "MURET": 182,
+        "DAMIATTE": 93,
+        "LOURDES": 35,
+        "BAYONNE": 145,
+        "BORDEAUX": 188,
+        "TOULOUSE": 109
+    },
+    "ARCACHON": {
+        "BIGANOS": 47,
+        "BORDEAUX": 52
+    },
+    "BIGANOS": {
+        "ARCACHON": 47,
+        "BORDEAUX": 29
+    },
+    "PERIGUEUX": {
+        "BRIVE-LA-GAILLARDE": 105,
+        "AGEN": 212,
+        "LIMOGES": 147,
+        "BORDEAUX": 82,
+        "LE LARDIN-SAINT-LAZARE": 34,
+        "MUSSIDAN": 30,
+        "LE BUISSON-DE-CADOUIN": 53,
+        "MONSEMPRON-LIBOS": 104,
+        "USSEL": 169
+    },
+    "LE LARDIN-SAINT-LAZARE": {
+        "TULLE": 85,
+        "BRIVE-LA-GAILLARDE": 44,
+        "BORDEAUX": 121,
+        "PERIGUEUX": 34
+    },
+    "BEDOUS": {
+        "DAMIATTE": 86,
+        "OLORON-SAINTE-MARIE": 35
+    },
+    "OLORON-SAINTE-MARIE": {
+        "DAMIATTE": 52,
+        "BEDOUS": 35
+    },
+    "BIDOS": {
+        "DAMIATTE": 58
+    },
+    "SAINT-JEAN-PIED-DE-PORT": {
+        "BAYONNE": 81
+    },
+    "CAMBO-LES-BAINS": {
+        "BAYONNE": 38
+    },
+    "HENDAYE": {
+        "SAINT-PAUL-LES-DAX": 140,
+        "BORDEAUX": 178,
+        "BAYONNE": 37
+    },
+    "BERGERAC": {
+        "LIBOURNE": 104,
+        "SARLAT-LA-CANEDA": 94,
+        "BORDEAUX": 76
+    },
+    "LIBOURNE": {
+        "BERGERAC": 104,
+        "SAINT-ÉMILION": 19,
+        "BORDEAUX": 35
+    },
+    "SAINT-ÉMILION": {
+        "LIBOURNE": 19
+    },
+    "SARLAT-LA-CANEDA": {
+        "BERGERAC": 94,
+        "BORDEAUX": 144
+    },
+    "LANGON": {
+        "BORDEAUX": 87,
+        "AGEN": 69
+    },
+    "COMMENTRY": {
+        "MONTLUCON": 25,
+        "VALLON-EN-SULLY": 47,
+        "ORVAL": 98,
+        "BOURGES": 121
+    },
+    "FIRMINY": {
+        "PUY-EN-VELAY (LE )": 129,
+        "LYON": 82,
+        "SAINT-ETIENNE": 22
+    },
+    "VOREY": {
+        "PUY-EN-VELAY (LE )": 41
+    },
+    "TONNERRE": {
+        "MIGENNES": 69
+    },
+    "MONTEREAU-FAULT-YONNE": {
+        "MIGENNES": 148,
+        "PARIS": 57
+    },
+    "MARCILLY-SUR-TILLE": {
+        "DIJON": 32,
+        "VENAREY-LES-LAUMES": 76
+    },
+    "VENAREY-LES-LAUMES": {
+        "DIJON": 107,
+        "MARCILLY-SUR-TILLE": 76
+    },
+    "CHAGNY": {
+        "ÉCUISSES": 57
+    },
+    "NEVERS-LE-BANLAY": {
+        "COSNE-COURS-SUR-LOIRE": 118,
+        "NEVERS": 13
+    },
+    "VESOUL": {
+        "MEROUX": 115
+    },
+    "AUXON-DESSUS": {
+        "BESANCON": 23
+    },
+    "VITRE": {
+        "RENNES": 60
+    },
+    "MONTAUBAN-DE-BRETAGNE": {
+        "RENNES": 32
+    },
+    "MESSAC": {
+        "RENNES": 75,
+        "VANNES": 115
+    },
+    "VANNES": {
+        "RENNES": 150,
+        "MESSAC": 115,
+        "LORIENT": 80,
+        "QUIMPERLE": 86
+    },
+    "ENSUÈS-LA-REDONNE": {
+        "RENNES": 105,
+        "GUÉMENÉ-PENFAO": 35,
+        "LORIENT": 140,
+        "NANTES": 58
+    },
+    "GUÉMENÉ-PENFAO": {
+        "ENSUÈS-LA-REDONNE": 35
+    },
+    "ROSPORDEN": {
+        "LORIENT": 65
+    },
+    "BREST": {
+        "MORLAIX": 85,
+        "QUIMPERLE": 130,
+        "LA FOREST-LANDERNEAU": 35,
+        "LANDERNEAU": 45,
+        "LANNION": 91,
+        "RENNES": 139,
+        "NANTES": 203
+    },
+    "MORLAIX": {
+        "BREST": 85
+    },
+    "LANDERNEAU": {
+        "QUIMPERLE": 95,
+        "BREST": 45
+    },
+    "LA FOREST-LANDERNEAU": {
+        "BREST": 35
+    },
+    "LANNION": {
+        "SAINT-BRIEUC": 65,
+        "GUINGAMP": 55,
+        "PLOUARET": 16,
+        "BREST": 91
+    },
+    "GUINGAMP": {
+        "LANNION": 55,
+        "CARHAIX-PLOUGUER": 75,
+        "CALLAC": 41,
+        "PAIMPOL": 47
+    },
+    "CARHAIX-PLOUGUER": {
+        "GUINGAMP": 75,
+        "CALLAC": 26
+    },
+    "LA CELLE-SAINT-AVANT": {
+        "JOUE-LES-TOURS": 85
+    },
+    "TOURY": {
+        "FLEURY-LES-AUBRAIS": 45
+    },
+    "SANTILLY": {
+        "FLEURY-LES-AUBRAIS": 45
+    },
+    "VERRIERE (LA )": {
+        "CHARTRES": 108
+    },
+    "VERSAILLES": {
+        "CHARTRES": 110
+    },
+    "GIVET": {
+        "CHARLEVILLE-MEZIERES": 107
+    },
+    "NOUZONVILLE": {
+        "CHARLEVILLE-MEZIERES": 20
+    },
+    "SEDAN": {
+        "REIMS": 163,
+        "CHARLEVILLE-MEZIERES": 43,
+        "RETHEL": 113,
+        "LONGWY": 108,
+        "BEZANNES": 105
+    },
+    "RETHEL": {
+        "SEDAN": 113
+    },
+    "CHIVRES-EN-LAONNOIS": {
+        "REIMS": 110,
+        "CREIL": 171,
+        "HIRSON": 51,
+        "DREUIL-LÈS-AMIENS": 84,
+        "TERGNIER": 26,
+        "AULNOYE-AYMERIES": 111,
+        "PARIS": 90,
+        "CREPY-EN-VALOIS": 69
+    },
+    "ÉTAMPES-SUR-MARNE": {
+        "CHALONS-EN-CHAMPAGNE": 105,
+        "REIMS": 66,
+        "PARIS-EST": 53,
+        "BAR-LE-DUC": 95,
+        "SAINT-DIZIER": 85
+    },
+    "DORMANS": {
+        "EPERNAY": 30
+    },
+    "EPERNAY": {
+        "DORMANS": 30,
+        "BAR-LE-DUC": 155,
+        "NANCY": 123,
+        "LUNEVILLE": 165,
+        "METZ": 117,
+        "PARIS-EST": 84,
+        "REIMS": 35
+    },
+    "CHALINDREY": {
+        "SAINT-JULIEN-LES-VILLAS": 161,
+        "VITTEL": 49,
+        "PARIS-EST": 188,
+        "CHAUMONT": 33,
+        "DIJON": 46,
+        "REIMS": 171,
+        "SAINT-DIZIER": 89
+    },
+    "CERBÈRE": {
+        "PERPIGNAN": 107,
+        "NARBONNE": 87,
+        "TOULOUSE": 199,
+        "MANDUEL": 197,
+        "AVIGNON": 238,
+        "MONTPELLIER": 154
+    },
+    "LE GRAU-DU-ROI": {
+        "VAUVERT": 44,
+        "MANDUEL": 93
+    },
+    "VAUVERT": {
+        "LE GRAU-DU-ROI": 44,
+        "MANDUEL": 24
+    },
+    "CASTELNAUDARY": {
+        "CARCASSONNE": 59,
+        "NARBONNE": 134,
+        "TOULOUSE": 83
+    },
+    "GÉNOLHAC": {
+        "ALES": 57,
+        "MANDUEL": 77
+    },
+    "LIMOGES": {
+        "GUERET": 111,
+        "LE DORAT": 70,
+        "POITIERS": 205,
+        "SAILLAT-SUR-VIENNE": 91,
+        "PERIGUEUX": 147,
+        "NEXON": 33,
+        "BRIVE-LA-GAILLARDE": 174,
+        "USSEL": 192,
+        "ROUEN": 203,
+        "VIERZON": 129,
+        "ARGENTON-SUR-CREUSE": 74,
+        "BORDEAUX": 145,
+        "AGEN": 216,
+        "SAINT-JUNIEN": 38,
+        "ST-YRIEIX-LA-PERCHE": 39,
+        "EYMOUTIERS": 45,
+        "MONTLUCON": 131,
+        "LA SOUTERRAINE": 47,
+        "CHATEAUROUX": 86
+    },
+    "LE DORAT": {
+        "LIMOGES": 70,
+        "POITIERS": 60
+    },
+    "SAILLAT-SUR-VIENNE": {
+        "LIMOGES": 91
+    },
+    "ST-YRIEIX-LA-PERCHE": {
+        "ARNAC-POMPADOUR": 47,
+        "LIMOGES": 39
+    },
+    "ARNAC-POMPADOUR": {
+        "ST-YRIEIX-LA-PERCHE": 47,
+        "NEXON": 83,
+        "OBJAT": 31
+    },
+    "NEXON": {
+        "ARNAC-POMPADOUR": 83,
+        "LIMOGES": 33
+    },
+    "OBJAT": {
+        "ARNAC-POMPADOUR": 31,
+        "BRIVE-LA-GAILLARDE": 46
+    },
+    "PONT-SAINT-VINCENT": {
+        "NANCY": 60
+    },
+    "DOMMARY-BARONCOURT": {
+        "NANCY": 109
+    },
+    "MONDELANGE": {
+        "JARNY": 64,
+        "VERDUN": 113
+    },
+    "LIVERDUN": {
+        "NANCY": 25
+    },
+    "RODEZ": {
+        "MILLAU": 85,
+        "CAPDENAC-GARE": 86,
+        "TOULOUSE": 137,
+        "BRIVE-LA-GAILLARDE": 145
+    },
+    "LAISSAC-FOIRAIL": {
+        "MILLAU": 60
+    },
+    "ST-SULPICE (TARN)": {
+        "MAZAMET": 103,
+        "CASTRES": 60,
+        "TOULOUSE": 24
+    },
+    "CASTRES": {
+        "ST-SULPICE (TARN)": 60
+    },
+    "GAILLAC": {
+        "FIGEAC": 160,
+        "TOULOUSE": 53
+    },
+    "LE PARCQ": {
+        "L'ISLE-JOURDAIN (GERS)": 51,
+        "TOULOUSE": 122,
+        "COLOMIERS": 94
+    },
+    "L'ISLE-JOURDAIN (GERS)": {
+        "LE PARCQ": 51,
+        "TOULOUSE": 72,
+        "COLOMIERS": 48,
+        "SAINT-CYPRIEN-ARÈNES": 33
+    },
+    "COLOMIERS": {
+        "LE PARCQ": 94,
+        "L'ISLE-JOURDAIN (GERS)": 48,
+        "TOULOUSE": 22,
+        "SAINT-CYPRIEN-ARÈNES": 13
+    },
+    "MONTAUBAN": {
+        "BRIVE-LA-GAILLARDE": 198,
+        "CAHORS": 78,
+        "AGEN": 106,
+        "TOULOUSE": 43
+    },
+    "CAHORS": {
+        "MONTAUBAN": 78,
+        "TOULOUSE": 74,
+        "BRIVE-LA-GAILLARDE": 66
+    },
+    "BOUSSENS": {
+        "DAMIATTE": 183,
+        "MURET": 93,
+        "GOURDAN-POLIGNAN": 55,
+        "TOULOUSE": 58
+    },
+    "MOUGINS": {
+        "ARQUES": 68,
+        "LILLE": 94
+    },
+    "MOUSCRON / MOESKROEN": {
+        "LILLE": 49
+    },
+    "VALENCIENNES": {
+        "CAMBRAI": 95,
+        "LILLE": 127,
+        "JEUMONT": 128,
+        "AULNOYE-AYMERIES": 29,
+        "MAUBEUGE": 42,
+        "HIRSON": 90,
+        "DOUAI": 38
+    },
+    "JEUMONT": {
+        "AULNOYE-AYMERIES": 50,
+        "MAUBEUGE": 15,
+        "VALENCIENNES": 128,
+        "LILLE": 81
+    },
+    "CHARLEROI SUD": {
+        "MAUBEUGE": 60
+    },
+    "ST POL SUR TERNOISE": {
+        "ARRAS": 63
+    },
+    "GRANDE-SYNTHE": {
+        "LILLE": 31,
+        "DREUIL-LÈS-AMIENS": 104,
+        "ARQUES": 50,
+        "HAZEBROUCK": 36,
+        "ARRAS": 93
+    },
+    "ROCHELLE (LA )": {
+        "ROCHE-SUR-YON (LA )": 120,
+        "SAINTES": 98,
+        "SAINT-YZAN-DE-SOUDIAC": 184,
+        "LA-ROCHELLE-PORTE-DAUPHINE": 9,
+        "POITIERS": 100,
+        "BEAUVOIR-SUR-NIORT": 44,
+        "SAINT-BONNET-DE-ROCHEFORT": 30,
+        "ANGOULEME": 126,
+        "BORDEAUX": 162
+    },
+    "ANGERS": {
+        "SABLE-SUR-SARTHE": 83,
+        "SAUMUR": 95,
+        "CHOLET": 100,
+        "NANTES": 43,
+        "MANS (LE )": 66,
+        "JOUE-LES-TOURS": 78,
+        "THOUARS": 68,
+        "CHARTRES": 163
+    },
+    "SABLE-SUR-SARTHE": {
+        "ANGERS": 83,
+        "MANS (LE )": 22
+    },
+    "BEILLÉ": {
+        "MANS (LE )": 50
+    },
+    "LAVAL-DE-CÈRE": {
+        "MANS (LE )": 135,
+        "RENNES": 55,
+        "NANTES": 101
+    },
+    "PERSAN": {
+        "BEAUVAIS": 90,
+        "PARIS": 63
+    },
+    "ST-JUST-SNCF": {
+        "CREIL": 56,
+        "DREUIL-LÈS-AMIENS": 87,
+        "PARIS": 64
+    },
+    "ABANCOURT": {
+        "LE TRÉPORT-MERS-LES-B": 83,
+        "CREIL": 103,
+        "BEAUVAIS": 48,
+        "DREUIL-LÈS-AMIENS": 35
+    },
+    "LE TRÉPORT-MERS-LES-B": {
+        "ABANCOURT": 83
+    },
+    "ANGOULEME": {
+        "POITIERS": 158,
+        "SAINTES": 98,
+        "ROYAN": 145,
+        "LA-ROCHELLE-PORTE-DAUPHINE": 138,
+        "ROCHELLE (LA )": 126,
+        "BORDEAUX": 89,
+        "COUTRAS": 55
+    },
+    "SAINTES": {
+        "ROCHELLE (LA )": 98,
+        "LA-ROCHELLE-PORTE-DAUPHINE": 133,
+        "BEAUVOIR-SUR-NIORT": 95,
+        "ANGOULEME": 98,
+        "BORDEAUX": 99,
+        "ROYAN": 26
+    },
+    "LA-ROCHELLE-PORTE-DAUPHINE": {
+        "SAINT-BONNET-DE-ROCHEFORT": 64,
+        "ROCHELLE (LA )": 9,
+        "SAINTES": 133,
+        "ANGOULEME": 138,
+        "BORDEAUX": 164
+    },
+    "SAINT-BONNET-DE-ROCHEFORT": {
+        "LA-ROCHELLE-PORTE-DAUPHINE": 64,
+        "ROCHELLE (LA )": 30
+    },
+    "SAINT-YZAN-DE-SOUDIAC": {
+        "ROCHELLE (LA )": 184,
+        "BORDEAUX": 43
+    },
+    "ROYAN": {
+        "BEAUVOIR-SUR-NIORT": 139,
+        "ANGOULEME": 145,
+        "SAINTES": 26
+    },
+    "TOULON": {
+        "MARSEILLE": 125,
+        "GARDE (LA )": 21,
+        "LES ARCS": 60,
+        "CARNOULES": 31
+    },
+    "SAINT-RAPHAEL": {
+        "LES ARCS": 30,
+        "CANNES": 38
+    },
+    "SOSPEL": {
+        "NICE": 65
+    },
+    "TOUËT-DE-L'ESCARÈNE": {
+        "NICE": 65
+    },
+    "MIRAMAS": {
+        "AVIGNON": 100,
+        "MARSEILLE": 33
+    },
+    "GARDANNE": {
+        "AIX-EN-PROVENCE": 20,
+        "MARSEILLE": 36
+    },
+    "SISTERON": {
+        "MARSEILLE": 175
+    },
+    "MARTIGUES": {
+        "MARSEILLE": 70
+    },
+    "PASSY": {
+        "SAINT-GERVAIS-LES-BAINS": 10
+    },
+    "OBERNAI": {
+        "STRASBOURG": 31
+    },
+    "LUTTERBACH": {
+        "MULHOUSE": 19
+    },
+    "WILLER-SUR-THUR": {
+        "MULHOUSE": 36
+    },
+    "PARIS-EST": {
+        "VITTEL": 230,
+        "BAR-LE-DUC": 150,
+        "ÉTAMPES-SUR-MARNE": 53,
+        "CHALONS-EN-CHAMPAGNE": 101,
+        "SAINT-DIZIER": 140,
+        "EPERNAY": 84,
+        "STRASBOURG": 359,
+        "SARREBOURG": 270,
+        "NANCY": 199,
+        "SAINT-JULIEN-LES-VILLAS": 90,
+        "CHALINDREY": 188,
+        "CHAUMONT": 145,
+        "MULHOUSE": 294,
+        "MEROUX": 247,
+        "DIJON": 223
+    },
+    "BEZANNES": {
+        "CHARLEVILLE-MEZIERES": 71,
+        "REIMS": 12,
+        "SEDAN": 105
+    },
+    "LONGUEVILLE": {
+        "MULHOUSE": 234
+    },
+    "BETHUNE": {
+        "LILLE": 39,
+        "ARRAS": 36,
+        "LENS": 17
+    },
+    "ETAPLES": {
+        "ARQUES": 62
+    },
+    "TOURCOING": {
+        "LILLE": 14
+    },
+    "ST OMER": {
+        "LILLE": 50
+    },
+    "CLERMONT": {
+        "PARIS": 50
+    },
+    "CREPY-EN-VALOIS": {
+        "CHIVRES-EN-LAONNOIS": 69
+    },
+    "VERNON": {
+        "PARIS": 60,
+        "MANTES-LA-VILLE": 17
+    },
+    "OISSEL": {
+        "PARIS": 94
+    },
+    "MONTIVILLIERS": {
+        "HAVRE (LE )": 15
+    },
+    "ROLLEVILLE": {
+        "HAVRE (LE )": 26
+    },
+    "SAINT-AUBIN-LES-ELBEUF": {
+        "YVETOT": 63
+    },
+    "YVETOT": {
+        "SAINT-AUBIN-LES-ELBEUF": 63,
+        "ROUEN": 34
+    },
+    "BUEIL": {
+        "MANTES-LA-VILLE": 15
+    },
+    "SAINT-LOUIS": {
+        "CAEN": 51
+    },
+    "MONTREUIL-SUR-ILLE": {
+        "RENNES": 30
+    },
+    "SAINT-MALO": {
+        "RENNES": 55
+    },
+    "PLOUARET": {
+        "LANNION": 16
+    },
+    "CALLAC": {
+        "CARHAIX-PLOUGUER": 26,
+        "GUINGAMP": 41
+    },
+    "PAIMPOL": {
+        "GUINGAMP": 47
+    },
+    "LE CROISIC": {
+        "MANS (LE )": 177,
+        "RENNES": 222,
+        "NANTES": 74,
+        "ROUEN": 258,
+        "JOUE-LES-TOURS": 190
+    },
+    "SAINT-NAZAIRE": {
+        "NANTES": 51
+    },
+    "SAVENAY": {
+        "NANTES": 34
+    },
+    "SABLES-D'OLONNE (LES)": {
+        "NANTES": 87,
+        "SAUMUR": 158
+    },
+    "CHANTONNAY": {
+        "ROCHE-SUR-YON (LA )": 31
+    },
+    "SAINTE-PAZANNE": {
+        "NANTES": 32
+    },
+    "PORNICHET": {
+        "NANTES": 60
+    },
+    "ANCENIS": {
+        "NANTES": 28
+    },
+    "SUCÉ-SUR-ERDRE": {
+        "NANTES": 27
+    },
+    "NORT-SUR-ERDRE": {
+        "NANTES": 40
+    },
+    "REIGNAC-SUR-INDRE": {
+        "JOUE-LES-TOURS": 45
+    },
+    "VOVES": {
+        "CHATEAUDUN": 21,
+        "JOUE-LES-TOURS": 137,
+        "CHARTRES": 23
+    },
+    "LA CROIX-EN-TOURAINE": {
+        "JOUE-LES-TOURS": 28
+    },
+    "NOYERS-SUR-CHER": {
+        "JOUE-LES-TOURS": 57
+    },
+    "VALLON-EN-SULLY": {
+        "MONTLUCON": 31,
+        "COMMENTRY": 47
+    },
+    "COUTRAS": {
+        "ANGOULEME": 55,
+        "BORDEAUX": 47
+    },
+    "MUSSIDAN": {
+        "PERIGUEUX": 30
+    },
+    "LE BUISSON-DE-CADOUIN": {
+        "BORDEAUX": 110,
+        "PERIGUEUX": 53
+    },
+    "PESSAC": {
+        "LESPARRE-MÉDOC": 72,
+        "MACAU": 34
+    },
+    "MACAU": {
+        "BORDEAUX": 41,
+        "PESSAC": 34
+    },
+    "MARMANDE": {
+        "AGEN": 36,
+        "BORDEAUX": 67
+    },
+    "SAINT-JUNIEN": {
+        "LIMOGES": 38
+    },
+    "EYMOUTIERS": {
+        "LIMOGES": 45
+    },
+    "FELLETIN": {
+        "GUERET": 52
+    },
+    "LA SOUTERRAINE": {
+        "LIMOGES": 47
+    },
+    "CARMAUX": {
+        "TOULOUSE": 76
+    },
+    "SAINT-CYPRIEN-ARÈNES": {
+        "L'ISLE-JOURDAIN (GERS)": 33,
+        "COLOMIERS": 13
+    },
+    "DURTOL": {
+        "CLERMONT-FERRAND": 13
+    },
+    "SAINT-GERMAIN-DES-FOSSÉS": {
+        "CLERMONT-FERRAND": 40,
+        "VIC-LE-COMTE": 66,
+        "ISSOIRE": 88
+    },
+    "LAVEISSIÈRE": {
+        "CLERMONT-FERRAND": 111
+    },
+    "LUNEL": {
+        "NARBONNE": 100,
+        "SETE": 54,
+        "MONTPELLIER": 20
+    },
+    "SETE": {
+        "AVIGNON": 109,
+        "MANDUEL": 66,
+        "LUNEL": 54,
+        "MONTPELLIER": 23
+    },
+    "ORANGE": {
+        "AVIGNON": 26
+    },
+    "CARPENTRAS": {
+        "AVIGNON": 41
+    },
+    "CAVAILLON": {
+        "MARSEILLE": 70
+    },
+    "MANOSQUE": {
+        "AIX-EN-PROVENCE": 45,
+        "MARSEILLE": 95
+    },
+    "AUBAGNE": {
+        "MARSEILLE": 22
+    },
+    "ANTIBES": {
+        "GRASSE": 41
+    },
+    "GARDE (LA )": {
+        "MARSEILLE": 84,
+        "TOULON": 21
+    },
+    "CARNOULES": {
+        "TOULON": 31
+    },
+    "SAINT-MARCELLIN": {
+        "GRENOBLE": 40,
+        "VALENCE-VILLE": 39
+    },
+    "PIERRELATTE": {
+        "MACON": 189
+    },
+    "GIVORS": {
+        "LYON": 17,
+        "AMBERIEU-EN-BUGEY": 64
+    },
+    "VIENNE": {
+        "LYON": 34,
+        "VILLEFRANCHE-SUR-SAONE": 74,
+        "MACON": 98
+    },
+    "RILLIEUX-LA-PAPE": {
+        "LYON": 19
+    },
+    "BAS-EN-BASSET": {
+        "SAINT-ETIENNE": 55
+    },
+    "ÉVEUX": {
+        "LYON": 37
+    },
+    "TASSIN-LA-DEMI-LUNE": {
+        "LOZANNE": 25
+    },
+    "BRIGNAIS": {
+        "LYON": 25
+    },
+    "CHALON-SUR-SAONE": {
+        "DIJON": 43,
+        "MACON": 39,
+        "ÉCUISSES": 39
+    },
+    "MONTBÉLIARD-VILLE": {
+        "MEROUX": 15
+    }
+}

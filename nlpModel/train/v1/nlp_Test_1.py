@@ -1,5 +1,7 @@
 # import spacy and fr language
 
+import sys
+sys.path.append("../app") 
 import spacy
 from spacy import displacy
 from langdetect import detect
@@ -179,7 +181,12 @@ def extract_trip_info(text):
                     "acces a un index invalide. la phrase n'est pas correct"
                 )
     # print(result)
+    # for item in result:
+    #     pass
     return extract_first_departure_and_destination(result)
 
 
-print(extract_trip_info("Je voulais aller de marseille a Paris pour repartir a nice et retourer a la maison"))
+# print(extract_trip_info("Je voulais aller de marseille a Paris pour repartir a nice et retourer a la maison"))
+
+# print(extract_trip_info("Je voulais aller prendre un cafe le long du lac a marseille"))
+print(extract_trip_info("je veux aller à Paris depuis Besançon"))

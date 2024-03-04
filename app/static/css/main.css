@@ -147,3 +147,20 @@ label {
     } */
   }
   @keyframes pulse {to {box-shadow: 0 0 0 20px rgba(90, 0, 141, 0);}}
+
+
+  /* result */
+  
+  .result{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 1.4rem!important;
+  }
+
+  p{
+    margin: 0!important;
+  }
+  
+  .arrow{
+    padding: 1.5%;
+  }

@@ -8,6 +8,13 @@ from werkzeug.exceptions import HTTPException
 from spellchecker import SpellChecker
 from langdetect import detect
 
+import sys
+sys.path.append("../nlpModel/")
+sys.path.append("../pathfinding/")
+
+from train.v1.nlp_Test_1 import extract_trip_info
+from pathfinder import PathFinder
+
 
 recognizer = sr.Recognizer()
 # french = SpellChecker(language='fr')
@@ -88,13 +95,21 @@ def search_txt():
     if request.method == "POST":
         if data and "trajet" in data:
             userText = request.get_json().get("trajet").strip()
+            print(userText)
             # verif is not french
             if is_not_french(userText):
-                return jsonify(error="Veuillez écrire votre demande en francais."), 400
+                print("NOT FRENCH")
+                return jsonify(data={"error": "Veuillez écrire votre demande en francais."}), 400
             # test correcteur d'orthographe
-            corrected_text = correct_spelling(userText)
-            print("Phrase corigé: ", corrected_text)
-            return jsonify({"data": userText})
+            # corrected_text = correct_spelling(userText)
+            # print("Phrase corigé: ", corrected_text)
+            print("NOT FRENCH")
+            
+            # si ok envoi au nlp
+            response = process_nlp(userText)
+            return response
+            
+            # return jsonify({"data": userText})
         else:
             return (
                 jsonify(error="la clé 'trajet' est manquante dans les données JSON"),
@@ -119,14 +134,18 @@ def search_voice_recognize():
             with sr.Microphone() as source:
                 print("Debut de l'audio...")
                 recognizer.adjust_for_ambient_noise(source, duration=0.5)
-                audio = recognizer.listen(source, timeout=1)
+                audio = recognizer.listen(source)
             text = recognizer.recognize_google(audio, language="fr-FR", key=None)
             # verif is not french
             if is_not_french(text):
+                print("NOT FRENCH")
                 return jsonify(error="Veuillez écrire votre demande en francais."), 400
             # call le process NLP
             print("Text reconnu : " + text.strip())
             # return jsonify(data=text.strip()), 200
+            response = process_nlp(text.strip())
+            return response
+            # return jsonify({"data": process_nlp(text.strip())}), 200 
         except sr.WaitTimeoutError:
             # Gérer l'erreur "listening timed out while waiting for phrase to start" ici
             return (
@@ -182,7 +201,12 @@ def search_voice_recognize_file():
             # verif is not french
             if is_not_french(result):
                 return jsonify(error="Veuillez écrire votre demande en francais."), 400
-            return jsonify({"data": result})
+            # process_nlp
+            response = process_nlp(result)
+            # response["phrase"].append(result)
+            
+            return response
+            # return jsonify({"data": process_nlp(result)}), 200 
         except sr.UnknownValueError:
             raise ValueError(
                 "Impossible de reconnaître la parole en français, veuillez recommencer !"
@@ -199,11 +223,68 @@ def search_voice_recognize_file():
 
 
 def process_nlp(sentence):
-    pass
 
+    print("PROCESS NLP EN COURS")
+    print(sentence)
+    try:
+        # call function nlp extract_trip_info
+        nlp_result = extract_trip_info(sentence)
+        
+        if "NOT_FRENCH" in nlp_result:
+            print("ERRRROOOOOR")
+            return jsonify(error="Veuillez écrire votre demande en francais.")
+        
+        if "NOT_TRIP" in nlp_result:
+            print("ERRRROOOOOR")
+            return jsonify(data={"error":"Impossible de détecter les informations de votre trajet. Veuillez recommencer."}),400
+        #  check if departure and arrivals
+        if len(nlp_result) != 2 or len(set(nlp_result)) != 2:
+            print("ERRRROOOOOR")
+            return jsonify(data={"error":"Nous ne parvenons pas a traiter votre demande. Veuillez reformuler."}),400
+        
+        # si ok call pathfinding
+        print("PROCESS PATHFINDING EN COURS")
+        print(nlp_result)
 
-def process_pathfinding(sentence):
-    pass
+        # return shortest paths
+        return process_pathfinding(nlp_result, sentence)
+   
+    
+    except Exception as e:
+        return jsonify(error=str(e))
+
+    
+    
+    
+
+def process_pathfinding(array_villes, sentence):
+    try:
+
+        print("START generate_graph")
+        
+        PathFinder.generate_graph()
+        print("START generate_station_city_csv")
+        
+        PathFinder.generate_station_city_csv()
+        print("START shortest_paths")
+        
+        shortest_paths = PathFinder.get_shortest_path_between_cities(array_villes)
+        
+        formatted_response = PathFinder.format_response_nlp(shortest_paths)
+        formatted_response["phrase"] = sentence
+        
+        print(formatted_response)
+        # if 'error' in formatted_response:
+        #     status_code = 400
+        # else:
+        #     status_code = 200
+            
+        # print("STATUS CODE === ", status_code)
+        # if formatted_response.
+        return jsonify({"data": formatted_response}), 400 
+    except Exception as e:
+        print(str(e))
+        return jsonify(error=str(e))
 
 
 # if __name__ == "__main__":
